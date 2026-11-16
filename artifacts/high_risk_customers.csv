@@ -1,0 +1,1410 @@
+customerID,Contract,tenure,MonthlyCharges,InternetService,PaymentMethod,churn_probability,risk_band
+5178-LMXOP,Month-to-month,1,95.1,Fiber optic,Electronic check,0.8551,Tinggi
+0295-PPHDO,Month-to-month,1,95.45,Fiber optic,Electronic check,0.8321,Tinggi
+6861-XWTWQ,Month-to-month,7,99.25,Fiber optic,Electronic check,0.8279,Tinggi
+8884-ADFVN,Month-to-month,7,101.95,Fiber optic,Electronic check,0.823,Tinggi
+1069-XAIEM,Month-to-month,1,85.05,Fiber optic,Electronic check,0.8188,Tinggi
+9057-SIHCH,Month-to-month,3,96.6,Fiber optic,Electronic check,0.8181,Tinggi
+6023-YEBUP,Month-to-month,3,100.95,Fiber optic,Electronic check,0.8178,Tinggi
+1400-MMYXY,Month-to-month,3,105.9,Fiber optic,Electronic check,0.8172,Tinggi
+2545-EBUPK,Month-to-month,2,84.05,Fiber optic,Electronic check,0.817,Tinggi
+6630-UJZMY,Month-to-month,4,83.25,Fiber optic,Electronic check,0.8112,Tinggi
+8161-QYMTT,Month-to-month,7,94.1,Fiber optic,Electronic check,0.8108,Tinggi
+4750-ZRXIU,Month-to-month,4,84.6,Fiber optic,Electronic check,0.8062,Tinggi
+2865-TCHJW,Month-to-month,4,89.2,Fiber optic,Electronic check,0.8002,Tinggi
+3320-VEOYC,Month-to-month,14,95.6,Fiber optic,Electronic check,0.7949,Tinggi
+3722-WPXTK,Month-to-month,1,88.35,Fiber optic,Electronic check,0.7937,Tinggi
+0970-ETWGE,Month-to-month,1,89.55,Fiber optic,Electronic check,0.7907,Tinggi
+1143-NMNQJ,Month-to-month,2,85.7,Fiber optic,Electronic check,0.789,Tinggi
+8593-WHYHV,Month-to-month,3,85.3,Fiber optic,Electronic check,0.7889,Tinggi
+4927-WWOOZ,Month-to-month,2,91.45,Fiber optic,Electronic check,0.7875,Tinggi
+8245-UMPYT,Month-to-month,16,96.4,Fiber optic,Electronic check,0.7839,Tinggi
+9248-OJYKK,Month-to-month,1,76.45,Fiber optic,Electronic check,0.7837,Tinggi
+4115-NZRKS,Month-to-month,7,89.15,Fiber optic,Electronic check,0.7801,Tinggi
+2034-GDRCN,Month-to-month,2,90.4,Fiber optic,Electronic check,0.7791,Tinggi
+8739-XNIKG,Month-to-month,5,84.0,Fiber optic,Electronic check,0.7778,Tinggi
+9611-CTWIH,Month-to-month,3,89.45,Fiber optic,Electronic check,0.7757,Tinggi
+4587-VVTOX,Month-to-month,6,105.3,Fiber optic,Electronic check,0.7741,Tinggi
+6969-MVBAI,Month-to-month,9,90.1,Fiber optic,Electronic check,0.7733,Tinggi
+8258-GSTJK,Month-to-month,3,77.0,Fiber optic,Electronic check,0.771,Tinggi
+4713-LZDRV,Month-to-month,2,79.6,Fiber optic,Electronic check,0.7695,Tinggi
+9221-OTIVJ,Month-to-month,14,104.85,Fiber optic,Electronic check,0.7657,Tinggi
+6230-BSUXY,Month-to-month,1,85.0,Fiber optic,Electronic check,0.7653,Tinggi
+4415-IJZTP,Month-to-month,1,74.5,Fiber optic,Electronic check,0.7589,Tinggi
+6979-ZNSFF,Month-to-month,8,87.05,Fiber optic,Electronic check,0.7558,Tinggi
+2077-MPJQO,Month-to-month,7,75.4,Fiber optic,Electronic check,0.7548,Tinggi
+9334-GWGOW,Month-to-month,7,74.85,Fiber optic,Electronic check,0.7544,Tinggi
+2514-GINMM,Month-to-month,1,79.5,Fiber optic,Electronic check,0.7517,Tinggi
+7249-WBIYX,Month-to-month,10,85.6,Fiber optic,Electronic check,0.7515,Tinggi
+2609-IAICY,Month-to-month,1,77.15,Fiber optic,Electronic check,0.7514,Tinggi
+7817-BOQPW,Month-to-month,2,75.55,Fiber optic,Electronic check,0.7504,Tinggi
+3519-ZKXGG,Month-to-month,3,75.85,Fiber optic,Electronic check,0.7479,Tinggi
+4090-KPJIP,Month-to-month,3,74.95,Fiber optic,Electronic check,0.7445,Tinggi
+2027-FECZV,Month-to-month,12,106.7,Fiber optic,Electronic check,0.7443,Tinggi
+8083-YTZES,Month-to-month,4,74.35,Fiber optic,Electronic check,0.7432,Tinggi
+1320-HTRDR,Month-to-month,3,75.5,Fiber optic,Electronic check,0.7432,Tinggi
+2202-CUYXZ,Month-to-month,1,84.85,Fiber optic,Electronic check,0.7428,Tinggi
+9878-TNQGW,Month-to-month,2,80.95,Fiber optic,Electronic check,0.7415,Tinggi
+8443-ZRDBZ,Month-to-month,4,76.05,Fiber optic,Electronic check,0.7405,Tinggi
+0655-RBDUG,Month-to-month,7,98.05,Fiber optic,Bank transfer (automatic),0.7403,Tinggi
+6328-ZPBGN,Month-to-month,11,95.15,Fiber optic,Bank transfer (automatic),0.7397,Tinggi
+7209-JCUDS,Month-to-month,10,94.9,Fiber optic,Electronic check,0.7394,Tinggi
+7130-VTEWQ,Month-to-month,8,75.75,Fiber optic,Electronic check,0.739,Tinggi
+8622-ZLFKO,Month-to-month,6,90.75,Fiber optic,Electronic check,0.7386,Tinggi
+2959-MJHIC,Month-to-month,4,80.35,Fiber optic,Electronic check,0.7341,Tinggi
+5382-SOYZL,Month-to-month,22,95.1,Fiber optic,Electronic check,0.7333,Tinggi
+8375-DKEBR,Month-to-month,1,69.6,Fiber optic,Electronic check,0.7326,Tinggi
+2985-FMWYF,Month-to-month,23,93.5,Fiber optic,Electronic check,0.7319,Tinggi
+4806-KEXQR,Month-to-month,4,79.9,Fiber optic,Electronic check,0.7317,Tinggi
+4229-CZMLL,Month-to-month,6,74.9,Fiber optic,Electronic check,0.7309,Tinggi
+8752-STIVR,Month-to-month,4,79.0,Fiber optic,Electronic check,0.7294,Tinggi
+5698-BQJOH,Month-to-month,9,94.4,Fiber optic,Electronic check,0.7292,Tinggi
+7235-NXZCP,Month-to-month,2,74.85,Fiber optic,Mailed check,0.7254,Tinggi
+8775-ERLNB,Month-to-month,1,74.3,Fiber optic,Electronic check,0.7252,Tinggi
+7180-PISOG,Month-to-month,1,74.5,Fiber optic,Electronic check,0.7243,Tinggi
+2495-INZWQ,Month-to-month,4,44.55,DSL,Electronic check,0.7241,Tinggi
+3006-XIMLN,Month-to-month,2,94.2,Fiber optic,Bank transfer (automatic),0.7232,Tinggi
+4342-HENTK,Month-to-month,2,70.65,Fiber optic,Electronic check,0.7226,Tinggi
+7181-BQYBV,Month-to-month,1,102.45,Fiber optic,Electronic check,0.7216,Tinggi
+5052-PNLOS,Month-to-month,3,105.35,Fiber optic,Bank transfer (automatic),0.7211,Tinggi
+7218-HKQFK,Month-to-month,2,94.2,Fiber optic,Electronic check,0.7206,Tinggi
+6892-XPFPU,Month-to-month,24,104.25,Fiber optic,Electronic check,0.7183,Tinggi
+8541-QVFKM,Month-to-month,8,73.5,Fiber optic,Electronic check,0.7179,Tinggi
+8361-LTMKD,Month-to-month,4,74.4,Fiber optic,Mailed check,0.7176,Tinggi
+3338-CVVEH,Month-to-month,12,94.55,Fiber optic,Electronic check,0.7172,Tinggi
+1628-BIZYP,Month-to-month,1,85.0,Fiber optic,Electronic check,0.7158,Tinggi
+3030-YDNRM,Month-to-month,8,74.85,Fiber optic,Electronic check,0.7154,Tinggi
+6857-VWJDT,Month-to-month,1,95.65,Fiber optic,Mailed check,0.7099,Tinggi
+3199-XGZCY,Month-to-month,8,75.25,Fiber optic,Electronic check,0.7097,Tinggi
+3716-BDVDB,Month-to-month,1,69.1,Fiber optic,Electronic check,0.7089,Tinggi
+7354-OIJLX,Month-to-month,9,75.85,Fiber optic,Electronic check,0.7089,Tinggi
+1820-TQVEV,Month-to-month,1,69.55,Fiber optic,Electronic check,0.7075,Tinggi
+3292-PBZEJ,Month-to-month,11,111.4,Fiber optic,Electronic check,0.7068,Tinggi
+9804-ICWBG,Month-to-month,1,69.9,Fiber optic,Electronic check,0.7064,Tinggi
+5542-TBBWB,Month-to-month,1,69.9,Fiber optic,Electronic check,0.7064,Tinggi
+4735-ASGMA,Month-to-month,26,98.35,Fiber optic,Electronic check,0.7054,Tinggi
+3750-CKVKH,Month-to-month,2,67.75,Fiber optic,Electronic check,0.705,Tinggi
+9685-WKZGT,Month-to-month,14,74.95,Fiber optic,Electronic check,0.7046,Tinggi
+5357-TZHPP,Month-to-month,9,84.4,Fiber optic,Credit card (automatic),0.7044,Tinggi
+3707-GNWHM,Month-to-month,1,74.25,Fiber optic,Mailed check,0.7037,Tinggi
+7273-TEFQD,Month-to-month,3,41.15,DSL,Electronic check,0.7037,Tinggi
+7363-QTBIW,Month-to-month,9,79.75,Fiber optic,Electronic check,0.7011,Tinggi
+3244-DCJWY,Month-to-month,1,70.25,Fiber optic,Electronic check,0.7006,Tinggi
+7029-RPUAV,Month-to-month,17,100.45,Fiber optic,Credit card (automatic),0.7004,Tinggi
+0841-NULXI,Month-to-month,1,35.55,DSL,Electronic check,0.7003,Tinggi
+5376-DEQCP,Month-to-month,1,70.6,Fiber optic,Electronic check,0.6994,Tinggi
+9717-QEBGU,Month-to-month,2,70.3,Fiber optic,Electronic check,0.698,Tinggi
+8699-ASUFO,Month-to-month,7,74.4,Fiber optic,Mailed check,0.6965,Tinggi
+6507-ZJSUR,Month-to-month,23,90.45,Fiber optic,Electronic check,0.6963,Tinggi
+6000-APYLU,Month-to-month,9,80.8,Fiber optic,Electronic check,0.6951,Tinggi
+2761-OCIAX,Month-to-month,2,74.7,Fiber optic,Electronic check,0.6951,Tinggi
+0871-URUWO,Month-to-month,13,102.25,Fiber optic,Credit card (automatic),0.6934,Tinggi
+2485-ITVKB,Month-to-month,2,35.1,DSL,Electronic check,0.6925,Tinggi
+1980-KXVPM,Month-to-month,3,75.05,Fiber optic,Credit card (automatic),0.6925,Tinggi
+4445-ZJNMU,Month-to-month,9,99.3,Fiber optic,Credit card (automatic),0.6922,Tinggi
+0679-IDSTG,Month-to-month,1,69.25,Fiber optic,Electronic check,0.6921,Tinggi
+3721-CNEYS,Month-to-month,2,70.95,Fiber optic,Electronic check,0.6908,Tinggi
+6856-RAURS,Month-to-month,2,74.9,Fiber optic,Mailed check,0.689,Tinggi
+4631-OACRM,Month-to-month,15,79.4,Fiber optic,Electronic check,0.6878,Tinggi
+1016-DJTSV,Month-to-month,8,69.7,Fiber optic,Electronic check,0.6874,Tinggi
+7005-CCBKV,Month-to-month,6,84.4,Fiber optic,Electronic check,0.6872,Tinggi
+5167-ZFFMM,Month-to-month,1,90.85,Fiber optic,Credit card (automatic),0.6861,Tinggi
+6077-BDPXA,Month-to-month,3,70.15,Fiber optic,Electronic check,0.6853,Tinggi
+4706-AXVKM,Month-to-month,11,84.8,Fiber optic,Credit card (automatic),0.6852,Tinggi
+2754-SDJRD,Month-to-month,8,100.15,Fiber optic,Credit card (automatic),0.6838,Tinggi
+5159-YFPKQ,Month-to-month,2,75.8,Fiber optic,Electronic check,0.6832,Tinggi
+9279-CJEOJ,Month-to-month,21,95.4,Fiber optic,Bank transfer (automatic),0.683,Tinggi
+2845-HSJCY,Month-to-month,14,87.25,Fiber optic,Electronic check,0.6826,Tinggi
+7409-KIUTL,Month-to-month,1,71.0,Fiber optic,Electronic check,0.6816,Tinggi
+5628-FCGYG,Month-to-month,21,84.1,Fiber optic,Electronic check,0.6812,Tinggi
+1768-ZAIFU,Month-to-month,1,25.2,DSL,Electronic check,0.6808,Tinggi
+0004-TLHLJ,Month-to-month,4,73.9,Fiber optic,Electronic check,0.6784,Tinggi
+5419-CONWX,Month-to-month,4,99.8,Fiber optic,Credit card (automatic),0.6783,Tinggi
+6372-RFVNS,Month-to-month,1,78.8,Fiber optic,Electronic check,0.6783,Tinggi
+6543-XRMYR,Month-to-month,30,99.7,Fiber optic,Electronic check,0.678,Tinggi
+1731-TVIUK,Month-to-month,4,93.5,Fiber optic,Electronic check,0.6779,Tinggi
+2057-ZBLPD,Month-to-month,21,86.5,Fiber optic,Electronic check,0.6763,Tinggi
+6047-YHPVI,Month-to-month,5,69.7,Fiber optic,Electronic check,0.6757,Tinggi
+9507-EXLTT,Month-to-month,1,79.35,Fiber optic,Bank transfer (automatic),0.6737,Tinggi
+2867-UIMSS,Month-to-month,1,80.5,Fiber optic,Electronic check,0.6725,Tinggi
+7198-GLXTC,Month-to-month,2,79.0,Fiber optic,Electronic check,0.67,Tinggi
+0390-DCFDQ,Month-to-month,1,70.45,Fiber optic,Mailed check,0.6699,Tinggi
+5228-EXCET,Month-to-month,13,80.85,Fiber optic,Electronic check,0.6654,Tinggi
+8397-MVTAZ,Month-to-month,34,100.05,Fiber optic,Electronic check,0.6643,Tinggi
+6899-PPEEA,Month-to-month,37,96.55,Fiber optic,Electronic check,0.6628,Tinggi
+6712-OAWRH,Month-to-month,26,91.25,Fiber optic,Electronic check,0.6625,Tinggi
+4283-FUTGF,Month-to-month,19,79.85,Fiber optic,Electronic check,0.6623,Tinggi
+1853-UDXBW,Month-to-month,1,70.0,Fiber optic,Electronic check,0.6622,Tinggi
+3677-IYRBF,Month-to-month,2,30.4,DSL,Electronic check,0.6621,Tinggi
+4301-VVZKA,Month-to-month,16,75.4,Fiber optic,Electronic check,0.6613,Tinggi
+8873-GLDMH,Month-to-month,6,73.85,Fiber optic,Mailed check,0.6613,Tinggi
+2254-DLXRI,Month-to-month,1,79.15,Fiber optic,Mailed check,0.6613,Tinggi
+2737-YNGYW,Month-to-month,2,80.55,Fiber optic,Electronic check,0.6613,Tinggi
+5196-SGOAK,Month-to-month,1,75.7,Fiber optic,Electronic check,0.6611,Tinggi
+6376-GAHQE,Month-to-month,4,77.85,Fiber optic,Electronic check,0.6592,Tinggi
+3422-LYEPQ,Month-to-month,1,71.0,Fiber optic,Electronic check,0.6587,Tinggi
+5186-SAMNZ,Month-to-month,1,69.5,Fiber optic,Bank transfer (automatic),0.6566,Tinggi
+4873-ILOLJ,Month-to-month,24,90.35,Fiber optic,Electronic check,0.6545,Tinggi
+2665-NPTGL,Month-to-month,26,98.1,Fiber optic,Bank transfer (automatic),0.6545,Tinggi
+1024-GUALD,Month-to-month,1,24.8,DSL,Electronic check,0.6541,Tinggi
+7861-UVUFT,Month-to-month,15,84.3,Fiber optic,Electronic check,0.6539,Tinggi
+1867-BDVFH,Month-to-month,11,74.35,Fiber optic,Electronic check,0.6533,Tinggi
+8739-WWKDU,Month-to-month,25,89.5,Fiber optic,Electronic check,0.652,Tinggi
+1475-VWVDO,Month-to-month,7,74.9,Fiber optic,Electronic check,0.6516,Tinggi
+8380-PEFPE,Month-to-month,1,71.65,Fiber optic,Electronic check,0.6516,Tinggi
+3585-ISXZP,Month-to-month,8,95.65,Fiber optic,Bank transfer (automatic),0.6502,Tinggi
+0235-KGSLC,Month-to-month,1,85.55,Fiber optic,Credit card (automatic),0.6487,Tinggi
+2439-LYPMQ,Month-to-month,38,102.6,Fiber optic,Electronic check,0.6481,Tinggi
+2025-JKFWI,Month-to-month,13,99.0,Fiber optic,Mailed check,0.6468,Tinggi
+4817-VYYWS,Month-to-month,30,100.2,Fiber optic,Electronic check,0.644,Tinggi
+3877-JRJIP,Month-to-month,1,59.85,DSL,Electronic check,0.6434,Tinggi
+0685-MLYYM,Month-to-month,2,70.75,Fiber optic,Electronic check,0.6427,Tinggi
+8266-VBFQL,Month-to-month,4,90.4,Fiber optic,Electronic check,0.6421,Tinggi
+2482-CZGBB,Month-to-month,10,70.0,Fiber optic,Electronic check,0.6392,Tinggi
+1379-FRVEB,Month-to-month,15,91.0,Fiber optic,Electronic check,0.6376,Tinggi
+8821-XNHVZ,Month-to-month,1,80.05,Fiber optic,Mailed check,0.6376,Tinggi
+0432-CAJZV,Month-to-month,3,90.7,Fiber optic,Mailed check,0.6373,Tinggi
+1112-CUNAO,Month-to-month,15,89.85,Fiber optic,Electronic check,0.6363,Tinggi
+0576-WNXXC,Month-to-month,27,95.55,Fiber optic,Electronic check,0.6363,Tinggi
+7912-SYRQT,Month-to-month,7,75.1,Fiber optic,Bank transfer (automatic),0.636,Tinggi
+6319-IEJWJ,Month-to-month,20,90.2,Fiber optic,Electronic check,0.6308,Tinggi
+1448-PWKYE,Month-to-month,1,80.0,Fiber optic,Electronic check,0.628,Tinggi
+8709-KRDVL,Month-to-month,33,100.0,Fiber optic,Electronic check,0.6273,Tinggi
+3908-BLSYF,Month-to-month,6,83.9,Fiber optic,Electronic check,0.6272,Tinggi
+9840-DVNDC,Month-to-month,6,80.5,Fiber optic,Credit card (automatic),0.6252,Tinggi
+4983-CCWMC,Month-to-month,3,69.6,Fiber optic,Mailed check,0.6234,Tinggi
+9054-FOWNV,Month-to-month,22,88.75,Fiber optic,Electronic check,0.6231,Tinggi
+9741-YLNTD,Month-to-month,6,87.95,Fiber optic,Bank transfer (automatic),0.623,Tinggi
+6705-LXORM,Month-to-month,5,70.05,Fiber optic,Electronic check,0.6227,Tinggi
+7534-BFESC,Month-to-month,24,76.1,Fiber optic,Electronic check,0.6219,Tinggi
+4029-HPFVY,Month-to-month,3,70.3,Fiber optic,Mailed check,0.6215,Tinggi
+2860-RANUS,Month-to-month,20,85.8,Fiber optic,Credit card (automatic),0.6207,Tinggi
+6137-NICCO,Month-to-month,6,94.05,Fiber optic,Mailed check,0.6206,Tinggi
+1302-UHBDD,Month-to-month,20,89.95,Fiber optic,Electronic check,0.6201,Tinggi
+0524-IAVZO,Month-to-month,30,85.0,Fiber optic,Electronic check,0.62,Tinggi
+5339-PXDVH,Month-to-month,4,90.65,Fiber optic,Electronic check,0.6197,Tinggi
+1751-NCDLI,Month-to-month,46,98.85,Fiber optic,Electronic check,0.6195,Tinggi
+0923-PNFUB,Month-to-month,3,83.75,Fiber optic,Electronic check,0.6193,Tinggi
+7495-OOKFY,Month-to-month,8,80.65,Fiber optic,Credit card (automatic),0.6179,Tinggi
+5380-WJKOV,Month-to-month,34,106.35,Fiber optic,Electronic check,0.6179,Tinggi
+2754-XBHTB,Month-to-month,9,77.65,Fiber optic,Bank transfer (automatic),0.615,Tinggi
+8650-RHRKE,Month-to-month,4,29.65,DSL,Electronic check,0.6146,Tinggi
+3672-YITQD,Month-to-month,36,84.1,Fiber optic,Electronic check,0.613,Tinggi
+0023-XUOPT,Month-to-month,13,94.1,Fiber optic,Electronic check,0.6123,Tinggi
+0258-NOKBL,Month-to-month,3,90.4,Fiber optic,Electronic check,0.6091,Tinggi
+7928-VJYAB,Month-to-month,11,90.6,Fiber optic,Electronic check,0.6089,Tinggi
+5442-BHQNG,Month-to-month,2,70.35,Fiber optic,Electronic check,0.6087,Tinggi
+9940-RHLFB,Month-to-month,1,75.3,Fiber optic,Electronic check,0.6073,Tinggi
+0616-ATFGB,Month-to-month,1,25.05,DSL,Electronic check,0.6065,Tinggi
+6338-AVWCY,Month-to-month,3,40.15,DSL,Mailed check,0.6048,Tinggi
+4412-YLTKF,Month-to-month,27,78.05,Fiber optic,Electronic check,0.6045,Tinggi
+8132-YPVBX,Month-to-month,6,85.95,Fiber optic,Mailed check,0.604,Tinggi
+0388-EOPEX,Month-to-month,2,74.4,Fiber optic,Electronic check,0.604,Tinggi
+1658-TJVOA,Month-to-month,6,74.1,Fiber optic,Electronic check,0.6037,Tinggi
+6910-HADCM,Month-to-month,1,76.35,Fiber optic,Electronic check,0.6035,Tinggi
+3858-VOBET,Month-to-month,23,74.95,Fiber optic,Electronic check,0.603,Tinggi
+7278-CKDNC,Month-to-month,24,80.5,Fiber optic,Electronic check,0.6028,Tinggi
+1989-PRJHP,Month-to-month,27,75.5,Fiber optic,Electronic check,0.6028,Tinggi
+4686-UXDML,Month-to-month,21,99.85,Fiber optic,Credit card (automatic),0.6023,Tinggi
+8676-TRMJS,Month-to-month,3,75.0,Fiber optic,Mailed check,0.6013,Tinggi
+9576-ANLXO,Month-to-month,3,69.55,Fiber optic,Bank transfer (automatic),0.6011,Tinggi
+9866-QEVEE,Month-to-month,19,86.0,Fiber optic,Bank transfer (automatic),0.5988,Sedang
+1077-HUUJM,Month-to-month,7,71.05,Fiber optic,Electronic check,0.5986,Sedang
+9050-QLROH,Month-to-month,18,90.7,Fiber optic,Credit card (automatic),0.5982,Sedang
+0506-LVNGN,Month-to-month,5,75.55,Fiber optic,Credit card (automatic),0.5979,Sedang
+3365-SAIGS,Month-to-month,17,83.55,Fiber optic,Electronic check,0.5978,Sedang
+0581-BXBUB,Month-to-month,4,72.75,Fiber optic,Electronic check,0.5972,Sedang
+6821-BUXUX,Month-to-month,13,96.65,Fiber optic,Electronic check,0.596,Sedang
+4919-IKATY,Month-to-month,5,84.5,Fiber optic,Electronic check,0.5936,Sedang
+2187-PKZAY,Month-to-month,12,79.95,Fiber optic,Bank transfer (automatic),0.5931,Sedang
+2325-NBPZG,Month-to-month,3,74.55,Fiber optic,Electronic check,0.5912,Sedang
+9692-TUSXH,Month-to-month,18,96.05,Fiber optic,Electronic check,0.5912,Sedang
+4647-MUZON,Month-to-month,18,95.95,Fiber optic,Credit card (automatic),0.59,Sedang
+8621-MNIHH,Month-to-month,34,94.25,Fiber optic,Electronic check,0.5898,Sedang
+0330-IVZHA,Month-to-month,5,69.95,Fiber optic,Electronic check,0.5893,Sedang
+0749-IRGQE,Month-to-month,13,45.3,DSL,Electronic check,0.5871,Sedang
+0958-YHXGP,Month-to-month,7,69.9,Fiber optic,Mailed check,0.5841,Sedang
+8818-DOPVL,Month-to-month,46,104.45,Fiber optic,Electronic check,0.5809,Sedang
+6680-WKXRZ,Month-to-month,3,74.4,Fiber optic,Bank transfer (automatic),0.5803,Sedang
+9167-APMXZ,Month-to-month,22,84.15,Fiber optic,Bank transfer (automatic),0.5798,Sedang
+5144-TVGLP,Month-to-month,38,94.75,Fiber optic,Electronic check,0.5796,Sedang
+7571-YXDAD,Month-to-month,2,74.9,Fiber optic,Credit card (automatic),0.5796,Sedang
+6175-IRFIT,Month-to-month,5,78.75,Fiber optic,Mailed check,0.5779,Sedang
+7952-OBOYL,Month-to-month,3,89.85,Fiber optic,Mailed check,0.5772,Sedang
+0899-LIIBW,Month-to-month,34,100.85,Fiber optic,Electronic check,0.5768,Sedang
+0376-YMCJC,Month-to-month,23,90.6,Fiber optic,Electronic check,0.5761,Sedang
+4547-LYTDD,Month-to-month,16,72.65,Fiber optic,Electronic check,0.5739,Sedang
+5501-TVMGM,Month-to-month,1,55.25,DSL,Electronic check,0.5737,Sedang
+7748-UMTRK,Month-to-month,30,101.3,Fiber optic,Electronic check,0.5736,Sedang
+5480-HPRRX,Month-to-month,3,25.3,DSL,Electronic check,0.5732,Sedang
+1894-IGFSG,Month-to-month,22,89.25,Fiber optic,Electronic check,0.5716,Sedang
+1236-WFCDV,Month-to-month,14,90.45,Fiber optic,Credit card (automatic),0.571,Sedang
+1092-GANHU,Month-to-month,17,76.65,Fiber optic,Electronic check,0.5692,Sedang
+3063-QFSZL,Month-to-month,1,55.4,DSL,Electronic check,0.5677,Sedang
+2041-JIJCI,Month-to-month,5,64.0,DSL,Electronic check,0.5674,Sedang
+1335-NTIUC,Month-to-month,9,24.95,DSL,Electronic check,0.5663,Sedang
+8160-HOWOX,Month-to-month,7,66.85,DSL,Electronic check,0.5641,Sedang
+9227-LUNBG,Month-to-month,1,24.6,DSL,Electronic check,0.5616,Sedang
+7410-YTJIK,Month-to-month,7,75.45,Fiber optic,Mailed check,0.5597,Sedang
+4818-QIUFN,Month-to-month,20,79.15,Fiber optic,Electronic check,0.559,Sedang
+8393-DLHGA,Month-to-month,25,95.9,Fiber optic,Electronic check,0.5565,Sedang
+7881-EVUAD,Month-to-month,2,42.6,DSL,Electronic check,0.5564,Sedang
+0988-JRWWP,Month-to-month,3,54.2,DSL,Electronic check,0.5523,Sedang
+0581-MDMPW,Month-to-month,24,88.95,Fiber optic,Credit card (automatic),0.5518,Sedang
+3966-HRMZA,Month-to-month,3,75.05,Fiber optic,Mailed check,0.5516,Sedang
+4360-PNRQB,Month-to-month,18,75.6,Fiber optic,Bank transfer (automatic),0.5513,Sedang
+7470-MCQTK,Month-to-month,13,48.75,DSL,Bank transfer (automatic),0.5491,Sedang
+9572-WUKSB,Month-to-month,3,29.9,DSL,Electronic check,0.5489,Sedang
+9779-DPNEJ,Month-to-month,22,80.15,Fiber optic,Electronic check,0.5483,Sedang
+4581-LNWUM,Month-to-month,13,49.15,DSL,Electronic check,0.5462,Sedang
+7855-DIWPO,Month-to-month,21,68.65,Fiber optic,Electronic check,0.5457,Sedang
+3312-UUMZW,Month-to-month,32,98.85,Fiber optic,Credit card (automatic),0.5447,Sedang
+0952-KMEEH,Month-to-month,13,98.15,Fiber optic,Mailed check,0.5445,Sedang
+9638-JIQYA,Month-to-month,2,24.9,DSL,Credit card (automatic),0.5443,Sedang
+7056-IMHCC,Month-to-month,53,101.9,Fiber optic,Electronic check,0.544,Sedang
+2919-HBCJO,Month-to-month,4,76.65,Fiber optic,Bank transfer (automatic),0.5439,Sedang
+2309-OSFEU,Month-to-month,10,33.9,DSL,Mailed check,0.542,Sedang
+8778-LMWTJ,Month-to-month,9,74.85,Fiber optic,Electronic check,0.5418,Sedang
+7603-USHJS,Month-to-month,12,73.75,Fiber optic,Credit card (automatic),0.5412,Sedang
+1522-VVDMG,Month-to-month,7,89.75,Fiber optic,Electronic check,0.5411,Sedang
+1965-DDBWU,Month-to-month,16,89.05,Fiber optic,Credit card (automatic),0.5395,Sedang
+8938-UMKPI,Month-to-month,47,106.4,Fiber optic,Electronic check,0.5394,Sedang
+0876-WDUUZ,Month-to-month,5,85.4,Fiber optic,Credit card (automatic),0.5389,Sedang
+2501-XWWTZ,Month-to-month,11,70.2,Fiber optic,Electronic check,0.5378,Sedang
+3717-OEAUQ,Month-to-month,2,70.7,Fiber optic,Mailed check,0.537,Sedang
+8993-PHFWD,Month-to-month,3,25.25,DSL,Electronic check,0.5358,Sedang
+8445-DNBAE,Month-to-month,1,50.05,DSL,Electronic check,0.5346,Sedang
+5760-FXFVO,Month-to-month,6,78.95,Fiber optic,Electronic check,0.533,Sedang
+9283-LZQOH,Month-to-month,13,74.4,Fiber optic,Credit card (automatic),0.5328,Sedang
+9465-RWMXL,Month-to-month,32,78.9,Fiber optic,Electronic check,0.531,Sedang
+6557-BZXLQ,Month-to-month,16,69.65,Fiber optic,Electronic check,0.5295,Sedang
+6284-AHOOQ,Month-to-month,22,90.5,Fiber optic,Bank transfer (automatic),0.5289,Sedang
+5226-NOZFC,Month-to-month,26,85.75,Fiber optic,Electronic check,0.5285,Sedang
+0082-OQIQY,Month-to-month,29,94.2,Fiber optic,Electronic check,0.5278,Sedang
+8714-EUHJO,Month-to-month,31,91.15,Fiber optic,Electronic check,0.5262,Sedang
+0778-NELLA,Month-to-month,9,34.7,DSL,Credit card (automatic),0.5255,Sedang
+7018-WBJNK,Month-to-month,13,78.3,Fiber optic,Credit card (automatic),0.5239,Sedang
+4846-WHAFZ,Month-to-month,37,76.5,Fiber optic,Electronic check,0.5234,Sedang
+0682-USIXD,Month-to-month,21,86.05,Fiber optic,Electronic check,0.522,Sedang
+2800-QQUSO,Month-to-month,42,100.3,Fiber optic,Electronic check,0.5219,Sedang
+9048-JVYVF,Month-to-month,3,69.35,DSL,Electronic check,0.5215,Sedang
+6834-NXDCA,Month-to-month,13,23.9,DSL,Electronic check,0.5206,Sedang
+9907-SWKKF,Month-to-month,1,25.05,DSL,Mailed check,0.52,Sedang
+9747-DDZOS,Month-to-month,1,73.5,Fiber optic,Bank transfer (automatic),0.52,Sedang
+3312-ZWLGF,Month-to-month,29,79.3,Fiber optic,Electronic check,0.5195,Sedang
+6331-LWDTQ,Month-to-month,10,72.15,DSL,Credit card (automatic),0.5176,Sedang
+8696-JKZNU,Month-to-month,37,76.25,Fiber optic,Electronic check,0.5175,Sedang
+2203-GHNWN,Month-to-month,24,79.65,Fiber optic,Mailed check,0.5174,Sedang
+6166-ILMNY,Month-to-month,2,69.75,Fiber optic,Bank transfer (automatic),0.5172,Sedang
+4512-ZUIYL,Month-to-month,2,70.0,Fiber optic,Bank transfer (automatic),0.5167,Sedang
+0963-ZBDRN,Month-to-month,32,96.2,Fiber optic,Electronic check,0.5149,Sedang
+9851-KIELU,Month-to-month,10,110.1,Fiber optic,Electronic check,0.5148,Sedang
+7279-BUYWN,Month-to-month,41,113.2,Fiber optic,Electronic check,0.5137,Sedang
+5373-SFODM,Month-to-month,36,85.25,Fiber optic,Credit card (automatic),0.5133,Sedang
+5606-AMZBO,Month-to-month,10,78.15,Fiber optic,Credit card (automatic),0.512,Sedang
+8059-UDZFY,Month-to-month,33,105.35,Fiber optic,Bank transfer (automatic),0.5111,Sedang
+1902-XBTFB,Month-to-month,22,89.4,Fiber optic,Electronic check,0.5094,Sedang
+9643-AVVWI,Month-to-month,3,80.0,Fiber optic,Electronic check,0.5091,Sedang
+8903-XEBGX,Month-to-month,2,55.3,DSL,Electronic check,0.5082,Sedang
+6034-YMTOB,Month-to-month,5,75.65,Fiber optic,Mailed check,0.5079,Sedang
+6608-QQLVK,Month-to-month,1,50.5,DSL,Electronic check,0.5074,Sedang
+5650-YLIBA,Month-to-month,31,81.15,Fiber optic,Electronic check,0.5074,Sedang
+5281-BUZGT,Month-to-month,36,90.85,Fiber optic,Electronic check,0.5056,Sedang
+7587-RZNME,Month-to-month,3,43.3,DSL,Electronic check,0.5054,Sedang
+6651-AZVTJ,Month-to-month,49,99.8,Fiber optic,Electronic check,0.5044,Sedang
+6661-HBGWL,Month-to-month,42,104.75,Fiber optic,Bank transfer (automatic),0.5044,Sedang
+2386-LAHRK,Month-to-month,1,53.5,DSL,Mailed check,0.5043,Sedang
+7851-FLGGQ,Month-to-month,1,44.65,DSL,Mailed check,0.5013,Sedang
+9944-AEXBM,Month-to-month,32,85.65,Fiber optic,Bank transfer (automatic),0.501,Sedang
+2955-BJZHG,Month-to-month,17,80.85,Fiber optic,Electronic check,0.5002,Sedang
+2694-CIUMO,Month-to-month,12,79.55,Fiber optic,Credit card (automatic),0.4998,Sedang
+6481-ESCNL,Month-to-month,29,100.55,Fiber optic,Bank transfer (automatic),0.498,Sedang
+1100-DDVRV,Month-to-month,17,49.8,DSL,Mailed check,0.4971,Sedang
+8212-DJRCH,Month-to-month,5,90.35,Fiber optic,Mailed check,0.4971,Sedang
+5022-JNQEQ,Month-to-month,9,75.85,Fiber optic,Electronic check,0.4967,Sedang
+4154-AQUGT,Month-to-month,13,89.05,Fiber optic,Bank transfer (automatic),0.4966,Sedang
+8849-AYPTR,Month-to-month,33,91.25,Fiber optic,Electronic check,0.4959,Sedang
+8914-RBTSB,Month-to-month,31,93.8,Fiber optic,Electronic check,0.4955,Sedang
+4658-HCOHW,Month-to-month,21,102.8,Fiber optic,Electronic check,0.4954,Sedang
+0256-LTHVJ,Month-to-month,28,81.05,Fiber optic,Electronic check,0.4937,Sedang
+9508-ILZDG,Month-to-month,34,96.35,Fiber optic,Electronic check,0.4927,Sedang
+5759-RCVCB,Month-to-month,3,35.2,DSL,Credit card (automatic),0.4908,Sedang
+9979-RGMZT,One year,7,94.05,Fiber optic,Mailed check,0.4907,Sedang
+4947-DSMXK,Month-to-month,34,97.7,Fiber optic,Bank transfer (automatic),0.4903,Sedang
+6704-UTUKK,Month-to-month,29,45.9,DSL,Electronic check,0.4897,Sedang
+3334-CTHOL,Month-to-month,1,49.95,DSL,Bank transfer (automatic),0.4896,Sedang
+7503-QQRVF,Month-to-month,16,74.3,Fiber optic,Credit card (automatic),0.4894,Sedang
+4248-QPAVC,Month-to-month,17,85.35,Fiber optic,Bank transfer (automatic),0.4882,Sedang
+6158-HDPXZ,Month-to-month,1,25.35,DSL,Mailed check,0.4875,Sedang
+3587-PMCOY,One year,10,98.9,Fiber optic,Electronic check,0.4869,Sedang
+9450-TRJUU,Month-to-month,35,83.15,Fiber optic,Electronic check,0.4866,Sedang
+1452-KIOVK,Month-to-month,22,89.1,Fiber optic,Credit card (automatic),0.4859,Sedang
+7181-OQCUT,Month-to-month,21,103.85,Fiber optic,Mailed check,0.4859,Sedang
+2971-SGAFL,Month-to-month,13,78.75,DSL,Electronic check,0.4845,Sedang
+3932-CMDTD,One year,4,105.65,Fiber optic,Electronic check,0.4842,Sedang
+8378-LKJAF,Month-to-month,38,101.15,Fiber optic,Credit card (automatic),0.4831,Sedang
+3094-JOJAI,Month-to-month,18,74.15,Fiber optic,Mailed check,0.4828,Sedang
+5889-JTMUL,Month-to-month,50,95.05,Fiber optic,Electronic check,0.4803,Sedang
+5016-IBERQ,Month-to-month,23,84.25,Fiber optic,Electronic check,0.4799,Sedang
+9512-UIBFX,Month-to-month,18,95.15,Fiber optic,Mailed check,0.4791,Sedang
+2911-WDXMV,Month-to-month,18,80.55,Fiber optic,Credit card (automatic),0.4779,Sedang
+1346-UFHAX,Month-to-month,13,80.0,Fiber optic,Credit card (automatic),0.4764,Sedang
+9752-ZNQUT,Month-to-month,1,48.6,DSL,Electronic check,0.4758,Sedang
+1319-YLZJG,Month-to-month,12,84.6,Fiber optic,Electronic check,0.4755,Sedang
+6543-CPZMK,Month-to-month,9,29.95,DSL,Electronic check,0.4753,Sedang
+4317-VTEOA,Month-to-month,1,50.75,DSL,Electronic check,0.4732,Sedang
+9420-LOJKX,Month-to-month,15,99.1,Fiber optic,Credit card (automatic),0.4726,Sedang
+6542-LWGXJ,Month-to-month,3,25.0,DSL,Mailed check,0.4719,Sedang
+2782-LFZVW,Month-to-month,11,58.95,DSL,Mailed check,0.4718,Sedang
+6402-EJMWF,Month-to-month,4,55.3,DSL,Mailed check,0.4694,Sedang
+1035-IPQPU,Month-to-month,63,103.5,Fiber optic,Electronic check,0.4672,Sedang
+8601-QACRS,Month-to-month,5,50.6,DSL,Mailed check,0.4666,Sedang
+0599-XNYDO,Month-to-month,20,69.8,Fiber optic,Bank transfer (automatic),0.4663,Sedang
+9576-SYUHJ,Month-to-month,37,91.15,Fiber optic,Electronic check,0.4653,Sedang
+2587-EKXTS,Month-to-month,44,111.5,Fiber optic,Electronic check,0.4638,Sedang
+8080-DDEMJ,Month-to-month,1,45.1,DSL,Electronic check,0.4635,Sedang
+4706-DGAHW,Month-to-month,1,45.2,DSL,Electronic check,0.4632,Sedang
+6729-GDNGC,Month-to-month,20,80.7,Fiber optic,Bank transfer (automatic),0.4611,Sedang
+1833-TCXKK,Month-to-month,45,107.75,Fiber optic,Bank transfer (automatic),0.4608,Sedang
+5129-JLPIS,Month-to-month,25,105.5,Fiber optic,Electronic check,0.4606,Sedang
+6048-QBXKL,Month-to-month,2,56.55,DSL,Credit card (automatic),0.4602,Sedang
+5609-IMCGG,Month-to-month,15,84.35,Fiber optic,Credit card (automatic),0.4586,Sedang
+5331-RGMTT,Month-to-month,54,99.05,Fiber optic,Credit card (automatic),0.4578,Sedang
+2178-PMGCJ,Month-to-month,22,69.7,Fiber optic,Mailed check,0.4575,Sedang
+0430-IHCDJ,Month-to-month,15,49.0,DSL,Electronic check,0.457,Sedang
+7404-JLKQG,Month-to-month,3,57.55,DSL,Electronic check,0.4568,Sedang
+2606-RMDHZ,Month-to-month,6,30.5,DSL,Credit card (automatic),0.4564,Sedang
+4619-EVPHY,One year,20,91.0,Fiber optic,Bank transfer (automatic),0.4556,Sedang
+3540-RZJYU,Month-to-month,15,86.2,Fiber optic,Electronic check,0.4552,Sedang
+5828-AVIPD,One year,19,100.95,Fiber optic,Electronic check,0.4549,Sedang
+6377-WHAOX,Month-to-month,60,106.15,Fiber optic,Electronic check,0.4542,Sedang
+3374-LXDEV,Month-to-month,13,89.4,Fiber optic,Electronic check,0.4538,Sedang
+7460-ITWWP,Month-to-month,45,86.1,Fiber optic,Electronic check,0.4535,Sedang
+9842-EFSYY,Month-to-month,4,57.2,DSL,Mailed check,0.4528,Sedang
+9278-VZKCD,Month-to-month,52,109.1,Fiber optic,Electronic check,0.4503,Sedang
+9710-ZUSHQ,Month-to-month,37,106.75,Fiber optic,Bank transfer (automatic),0.4489,Sedang
+0096-BXERS,Month-to-month,6,50.35,DSL,Electronic check,0.4483,Sedang
+2227-JRSJX,Month-to-month,21,99.15,Fiber optic,Bank transfer (automatic),0.4471,Sedang
+7663-RGWBC,Month-to-month,1,44.15,DSL,Mailed check,0.4461,Sedang
+7129-ACFOG,Month-to-month,5,53.8,DSL,Electronic check,0.4459,Sedang
+8785-CJSHH,Month-to-month,60,99.8,Fiber optic,Electronic check,0.4459,Sedang
+9927-DSWDF,Month-to-month,22,104.6,Fiber optic,Electronic check,0.4456,Sedang
+1436-ZMJAN,Month-to-month,10,67.8,DSL,Credit card (automatic),0.4447,Sedang
+2277-DJJDL,Month-to-month,60,99.0,Fiber optic,Electronic check,0.4435,Sedang
+3524-WQDSG,Month-to-month,43,99.3,Fiber optic,Bank transfer (automatic),0.4433,Sedang
+8058-DMYRU,Month-to-month,54,90.05,Fiber optic,Electronic check,0.4427,Sedang
+5461-QKNTN,Month-to-month,43,94.3,Fiber optic,Electronic check,0.4413,Sedang
+6022-UGGSO,Month-to-month,32,74.4,Fiber optic,Electronic check,0.4412,Sedang
+5133-POWUA,Month-to-month,1,45.8,DSL,Mailed check,0.4398,Sedang
+4237-RLAQD,Month-to-month,1,45.85,DSL,Mailed check,0.4396,Sedang
+3331-HQDTW,Month-to-month,34,109.8,Fiber optic,Mailed check,0.439,Sedang
+4570-QHXHL,Month-to-month,9,43.75,DSL,Electronic check,0.4382,Sedang
+3627-FHKBK,Month-to-month,1,75.3,Fiber optic,Mailed check,0.4361,Sedang
+5351-QESIO,Month-to-month,1,24.2,DSL,Mailed check,0.4361,Sedang
+5692-FPTAH,Month-to-month,1,45.4,DSL,Mailed check,0.4358,Sedang
+2432-TFSMK,One year,18,89.6,Fiber optic,Credit card (automatic),0.4349,Sedang
+1942-OQFRW,Month-to-month,1,44.0,DSL,Electronic check,0.4312,Sedang
+9389-ACWBI,Month-to-month,5,69.95,Fiber optic,Credit card (automatic),0.4304,Sedang
+6946-LMSQS,One year,25,89.05,Fiber optic,Electronic check,0.4286,Sedang
+5651-YLPRD,Month-to-month,32,86.1,Fiber optic,Electronic check,0.428,Sedang
+2988-PLAHS,One year,3,69.95,DSL,Electronic check,0.4273,Sedang
+2277-VWCNI,Month-to-month,4,48.75,DSL,Mailed check,0.4271,Sedang
+3780-YVMFA,Month-to-month,8,68.55,DSL,Electronic check,0.4265,Sedang
+9369-XFEHK,Month-to-month,33,80.6,Fiber optic,Bank transfer (automatic),0.4263,Sedang
+8280-MQRQN,Month-to-month,1,50.45,DSL,Mailed check,0.4254,Sedang
+4905-JEFDW,One year,11,41.6,DSL,Electronic check,0.4244,Sedang
+6317-YPKDH,Month-to-month,1,29.95,DSL,Bank transfer (automatic),0.4216,Sedang
+3197-ARFOY,Month-to-month,19,105.0,Fiber optic,Mailed check,0.4215,Sedang
+1536-HBSWP,Month-to-month,1,49.9,DSL,Electronic check,0.4215,Sedang
+9286-DOJGF,Month-to-month,38,74.95,Fiber optic,Bank transfer (automatic),0.4215,Sedang
+4993-JCRGJ,Month-to-month,26,84.3,Fiber optic,Mailed check,0.4206,Sedang
+1261-FWTTE,Month-to-month,23,34.65,DSL,Bank transfer (automatic),0.4195,Sedang
+1310-QRITU,Month-to-month,18,50.3,DSL,Electronic check,0.4182,Sedang
+7504-UWHNB,Month-to-month,25,69.75,Fiber optic,Electronic check,0.4178,Sedang
+4840-ORQXB,Month-to-month,56,104.75,Fiber optic,Electronic check,0.4173,Sedang
+0322-CHQRU,Month-to-month,2,45.35,DSL,Electronic check,0.4162,Sedang
+8158-WPEZG,Month-to-month,11,35.65,DSL,Electronic check,0.4149,Sedang
+3466-RITXD,Month-to-month,26,92.4,Fiber optic,Credit card (automatic),0.4148,Sedang
+3891-PUQOD,Month-to-month,1,59.2,DSL,Electronic check,0.4141,Sedang
+6080-TCMYC,Month-to-month,40,81.2,Fiber optic,Electronic check,0.4134,Sedang
+4678-DVQEO,Month-to-month,1,52.2,DSL,Electronic check,0.4129,Sedang
+6825-UYPFK,Month-to-month,23,75.6,Fiber optic,Bank transfer (automatic),0.4112,Sedang
+7529-ZDFXI,Month-to-month,57,89.85,Fiber optic,Electronic check,0.411,Sedang
+7277-OZCGZ,Month-to-month,22,89.05,Fiber optic,Electronic check,0.4093,Sedang
+0410-IPFTY,Month-to-month,31,83.85,Fiber optic,Bank transfer (automatic),0.4071,Sedang
+3237-AJGEH,Month-to-month,3,31.0,DSL,Mailed check,0.407,Sedang
+4660-IRIBM,Month-to-month,18,87.9,Fiber optic,Mailed check,0.404,Sedang
+3569-EDBPQ,Month-to-month,24,84.35,Fiber optic,Electronic check,0.402,Sedang
+6711-VTNRE,Month-to-month,36,87.55,Fiber optic,Electronic check,0.4018,Sedang
+5301-GAUUY,Month-to-month,32,80.35,Fiber optic,Bank transfer (automatic),0.4007,Sedang
+1816-FLZDK,Month-to-month,1,29.15,DSL,Mailed check,0.3999,Sedang
+0365-GXEZS,Month-to-month,18,78.2,Fiber optic,Electronic check,0.3994,Sedang
+2070-FNEXE,Month-to-month,7,76.45,Fiber optic,Bank transfer (automatic),0.399,Sedang
+4760-THGOT,Month-to-month,43,94.1,Fiber optic,Electronic check,0.3962,Sedang
+4690-LLKUA,Month-to-month,17,45.05,DSL,Electronic check,0.3961,Sedang
+9381-NDKME,Month-to-month,24,40.65,DSL,Credit card (automatic),0.3948,Sedang
+0015-UOCOJ,Month-to-month,7,48.2,DSL,Electronic check,0.3934,Sedang
+2960-NKRSO,Month-to-month,24,85.95,Fiber optic,Electronic check,0.3927,Sedang
+5419-KLXBN,Month-to-month,25,89.15,Fiber optic,Bank transfer (automatic),0.3924,Sedang
+4526-ZJJTM,Month-to-month,25,88.4,Fiber optic,Bank transfer (automatic),0.3916,Sedang
+9992-UJOEL,Month-to-month,2,50.3,DSL,Mailed check,0.3894,Sedang
+2604-IJPDU,Month-to-month,20,96.55,Fiber optic,Electronic check,0.3885,Sedang
+2720-FVBQP,Month-to-month,6,48.95,DSL,Credit card (automatic),0.3864,Sedang
+8988-ECPJR,Month-to-month,34,79.6,Fiber optic,Mailed check,0.3852,Sedang
+6710-HSJRD,Month-to-month,61,114.1,Fiber optic,Electronic check,0.385,Sedang
+6429-SHBCB,Month-to-month,19,69.6,DSL,Mailed check,0.3833,Sedang
+0310-MVLET,Month-to-month,61,99.15,Fiber optic,Electronic check,0.3828,Sedang
+3787-TRIAL,Month-to-month,21,26.05,DSL,Electronic check,0.3826,Sedang
+6304-IJFSQ,Month-to-month,3,49.9,DSL,Mailed check,0.3808,Sedang
+1471-GIQKQ,Month-to-month,1,49.95,DSL,Electronic check,0.3802,Sedang
+0531-ZZJWQ,Month-to-month,55,74.0,Fiber optic,Electronic check,0.3801,Sedang
+4829-AUOAX,Month-to-month,46,96.05,Fiber optic,Bank transfer (automatic),0.3801,Sedang
+6128-AQBMT,Month-to-month,41,53.95,DSL,Electronic check,0.3799,Sedang
+4208-UFFGW,Month-to-month,2,44.95,DSL,Mailed check,0.379,Sedang
+5213-TWWJU,Month-to-month,28,91.0,Fiber optic,Electronic check,0.3783,Sedang
+0730-KOAVE,Month-to-month,30,94.3,Fiber optic,Credit card (automatic),0.3768,Sedang
+7876-BEUTG,Month-to-month,15,48.8,DSL,Mailed check,0.3759,Sedang
+4226-KKDON,Month-to-month,8,66.65,DSL,Electronic check,0.3719,Sedang
+4223-WOZCM,Month-to-month,2,49.95,DSL,Mailed check,0.3701,Sedang
+2452-KDRRH,Month-to-month,67,101.4,Fiber optic,Credit card (automatic),0.3695,Sedang
+0422-UXFAP,One year,51,98.85,Fiber optic,Electronic check,0.369,Sedang
+4329-YPDDQ,Month-to-month,20,108.2,Fiber optic,Bank transfer (automatic),0.3687,Sedang
+3658-KIBGF,Month-to-month,1,54.9,DSL,Electronic check,0.3674,Sedang
+2139-FQHLM,Month-to-month,19,89.95,Fiber optic,Mailed check,0.3668,Sedang
+5934-TSSAU,Month-to-month,23,75.3,Fiber optic,Credit card (automatic),0.3644,Sedang
+6845-RGTYS,Month-to-month,47,98.75,Fiber optic,Electronic check,0.3629,Sedang
+1559-DTODC,Month-to-month,19,25.15,DSL,Bank transfer (automatic),0.3623,Sedang
+0363-QJVFX,Month-to-month,32,108.15,Fiber optic,Credit card (automatic),0.3615,Sedang
+9812-GHVRI,Month-to-month,40,83.85,Fiber optic,Bank transfer (automatic),0.3613,Sedang
+9112-WSNPU,Month-to-month,35,70.55,Fiber optic,Electronic check,0.3613,Sedang
+0265-PSUAE,Month-to-month,16,100.7,Fiber optic,Bank transfer (automatic),0.36,Sedang
+8623-ULFNQ,Month-to-month,26,66.05,DSL,Electronic check,0.3572,Sedang
+1465-LNTLJ,Month-to-month,8,64.4,DSL,Credit card (automatic),0.3571,Sedang
+1357-BIJKI,One year,50,98.25,Fiber optic,Electronic check,0.3528,Sedang
+4323-SADQS,Month-to-month,7,34.5,DSL,Electronic check,0.3519,Sedang
+6227-HWPWX,Month-to-month,15,69.0,Fiber optic,Bank transfer (automatic),0.3518,Sedang
+2480-SQIOB,Month-to-month,4,44.8,DSL,Electronic check,0.3505,Sedang
+6173-GOLSU,Month-to-month,67,94.65,Fiber optic,Credit card (automatic),0.3503,Sedang
+1205-WNWPJ,Month-to-month,7,59.5,DSL,Mailed check,0.35,Sedang
+2672-OJQZP,Month-to-month,1,44.75,DSL,Mailed check,0.3499,Sedang
+4067-HLYQI,Month-to-month,33,70.4,Fiber optic,Bank transfer (automatic),0.3477,Sedang
+9819-FBNSV,Month-to-month,37,72.25,Fiber optic,Bank transfer (automatic),0.3474,Sedang
+7054-LGEQW,Month-to-month,1,45.95,DSL,Mailed check,0.3457,Sedang
+2101-RANCD,Month-to-month,55,73.1,Fiber optic,Electronic check,0.344,Sedang
+3173-NVMPX,Month-to-month,9,55.3,DSL,Mailed check,0.342,Sedang
+2257-BOVXD,Month-to-month,14,66.6,DSL,Credit card (automatic),0.3416,Sedang
+7669-LCRSD,Month-to-month,12,56.3,DSL,Mailed check,0.3412,Sedang
+1587-FKLZB,Month-to-month,66,99.5,Fiber optic,Credit card (automatic),0.3404,Sedang
+2386-OWURY,Month-to-month,58,95.3,Fiber optic,Electronic check,0.339,Sedang
+3207-OYBWH,Month-to-month,57,95.25,Fiber optic,Bank transfer (automatic),0.3368,Sedang
+1956-YIFGE,One year,22,100.05,Fiber optic,Mailed check,0.3306,Sedang
+9732-KPKBW,Month-to-month,1,53.95,DSL,Electronic check,0.3305,Sedang
+1895-QTKDO,Month-to-month,1,43.95,DSL,Credit card (automatic),0.329,Sedang
+3923-CSIHK,Month-to-month,50,71.05,Fiber optic,Electronic check,0.329,Sedang
+7055-HNEOJ,Month-to-month,3,55.8,DSL,Mailed check,0.3283,Sedang
+1174-FGIFN,One year,28,90.45,Fiber optic,Electronic check,0.3253,Sedang
+6257-RJOHI,Month-to-month,4,50.8,DSL,Mailed check,0.3242,Sedang
+9079-YEXQJ,Month-to-month,54,111.1,Fiber optic,Electronic check,0.3237,Sedang
+1169-WCVAK,Month-to-month,19,88.8,Fiber optic,Credit card (automatic),0.3228,Sedang
+8840-DQLGN,Month-to-month,35,100.5,Fiber optic,Bank transfer (automatic),0.3207,Sedang
+9661-MHUMO,Month-to-month,1,49.25,DSL,Credit card (automatic),0.32,Sedang
+3018-TFTSU,Month-to-month,12,81.7,Fiber optic,Bank transfer (automatic),0.3198,Sedang
+9822-WMWVG,Month-to-month,41,106.5,Fiber optic,Electronic check,0.3196,Sedang
+3466-WAESX,Month-to-month,16,69.1,DSL,Electronic check,0.3194,Sedang
+9089-UOWJG,Month-to-month,12,58.35,DSL,Credit card (automatic),0.3193,Sedang
+8757-TFHHJ,Month-to-month,1,49.8,DSL,Credit card (automatic),0.319,Sedang
+6874-SGLHU,One year,30,97.0,Fiber optic,Bank transfer (automatic),0.3189,Sedang
+5402-HTOTQ,Month-to-month,16,55.3,DSL,Electronic check,0.3183,Sedang
+4983-CLMLV,Month-to-month,52,102.7,Fiber optic,Credit card (automatic),0.3183,Sedang
+2770-NSVDG,Month-to-month,24,29.1,DSL,Electronic check,0.3182,Sedang
+1541-ETJZO,Month-to-month,1,62.05,DSL,Mailed check,0.3179,Sedang
+4640-UHDOS,Month-to-month,13,55.95,DSL,Electronic check,0.3174,Sedang
+3069-SSVSN,One year,1,25.85,DSL,Mailed check,0.3172,Sedang
+6646-QVXLR,One year,62,103.75,Fiber optic,Electronic check,0.3164,Sedang
+6234-PFPXL,Month-to-month,22,95.9,Fiber optic,Credit card (automatic),0.3162,Sedang
+0327-WFZSY,One year,39,100.0,Fiber optic,Electronic check,0.3159,Sedang
+7579-OOPEC,Month-to-month,2,50.15,DSL,Credit card (automatic),0.3159,Sedang
+0431-APWVY,One year,28,90.1,Fiber optic,Bank transfer (automatic),0.3155,Sedang
+5575-TPIZQ,Month-to-month,46,89.15,Fiber optic,Credit card (automatic),0.3146,Sedang
+0486-HECZI,Month-to-month,55,96.75,Fiber optic,Electronic check,0.3122,Sedang
+0013-MHZWF,Month-to-month,9,69.4,DSL,Credit card (automatic),0.3113,Sedang
+2692-PFYTJ,Month-to-month,1,25.75,No,Mailed check,0.3085,Sedang
+4819-HJPIW,Month-to-month,18,25.15,DSL,Mailed check,0.3082,Sedang
+7251-LJBQN,One year,40,103.75,Fiber optic,Credit card (automatic),0.3074,Sedang
+9700-ISPUP,Month-to-month,10,65.5,DSL,Electronic check,0.3072,Sedang
+4724-WXVWF,Month-to-month,48,95.4,Fiber optic,Electronic check,0.3063,Sedang
+1550-LOAHA,Month-to-month,32,84.15,Fiber optic,Bank transfer (automatic),0.3051,Sedang
+8805-JNRAZ,Month-to-month,2,49.2,DSL,Mailed check,0.3049,Sedang
+9767-FFLEM,Month-to-month,38,69.5,Fiber optic,Credit card (automatic),0.3044,Sedang
+8033-VCZGH,One year,50,103.95,Fiber optic,Electronic check,0.3043,Sedang
+7623-TRNQN,Month-to-month,1,49.9,DSL,Mailed check,0.3042,Sedang
+1370-GGAWX,One year,46,94.15,Fiber optic,Electronic check,0.3039,Sedang
+8728-SKJLR,Month-to-month,41,74.25,Fiber optic,Electronic check,0.3035,Sedang
+5949-HGVJL,Month-to-month,26,73.05,DSL,Electronic check,0.3026,Sedang
+5207-PLSTK,Month-to-month,1,48.75,DSL,Mailed check,0.3015,Sedang
+7067-KSAZT,One year,65,106.25,Fiber optic,Electronic check,0.2999,Rendah
+5438-QMDDL,Month-to-month,19,59.8,DSL,Mailed check,0.2993,Rendah
+5103-MHMHY,Month-to-month,1,45.95,DSL,Mailed check,0.2967,Rendah
+9327-QSDED,Month-to-month,8,43.55,DSL,Mailed check,0.2957,Rendah
+7250-EQKIY,Month-to-month,1,50.45,DSL,Mailed check,0.2941,Rendah
+9481-SFCQY,Month-to-month,14,59.8,DSL,Credit card (automatic),0.2924,Rendah
+6713-OKOMC,Month-to-month,10,29.75,DSL,Mailed check,0.292,Rendah
+4396-KLSEH,Month-to-month,4,19.85,No,Electronic check,0.291,Rendah
+3567-PQTSO,One year,53,105.25,Fiber optic,Electronic check,0.2903,Rendah
+2190-BCXEC,Month-to-month,40,78.85,Fiber optic,Credit card (automatic),0.2899,Rendah
+5600-PDUJF,Month-to-month,6,49.5,DSL,Credit card (automatic),0.2899,Rendah
+8455-HIRAQ,Month-to-month,8,44.45,DSL,Mailed check,0.2897,Rendah
+3594-KADLU,Month-to-month,3,35.1,DSL,Mailed check,0.2865,Rendah
+7410-KTVFV,Month-to-month,18,49.55,DSL,Mailed check,0.2854,Rendah
+0979-PHULV,Month-to-month,69,99.45,Fiber optic,Credit card (automatic),0.2852,Rendah
+9103-TCIHJ,Month-to-month,15,55.7,DSL,Mailed check,0.2843,Rendah
+6664-FPDAC,One year,56,111.95,Fiber optic,Electronic check,0.2836,Rendah
+4695-VADHF,Month-to-month,18,57.45,DSL,Electronic check,0.2835,Rendah
+6854-EXGSF,Month-to-month,8,65.5,DSL,Bank transfer (automatic),0.2824,Rendah
+6769-DYBQN,Month-to-month,46,85.0,Fiber optic,Electronic check,0.2788,Rendah
+0823-HSCDJ,Month-to-month,52,49.15,DSL,Electronic check,0.278,Rendah
+6559-RAKOZ,One year,49,97.95,Fiber optic,Electronic check,0.2764,Rendah
+4937-QPZPO,One year,61,99.9,Fiber optic,Electronic check,0.2754,Rendah
+1848-LBZHY,Month-to-month,7,50.3,DSL,Bank transfer (automatic),0.2743,Rendah
+1217-VASWC,One year,43,100.55,Fiber optic,Bank transfer (automatic),0.2735,Rendah
+6770-XUAGN,Month-to-month,1,21.0,No,Electronic check,0.2706,Rendah
+2195-VVRJF,Month-to-month,18,59.1,DSL,Credit card (automatic),0.2683,Rendah
+7750-EYXWZ,One year,12,60.65,DSL,Electronic check,0.2682,Rendah
+8450-JOVAH,Month-to-month,2,56.7,DSL,Mailed check,0.2671,Rendah
+5804-HYIEZ,Month-to-month,70,106.05,Fiber optic,Electronic check,0.2658,Rendah
+4256-ZWTZI,Month-to-month,5,51.0,DSL,Mailed check,0.2657,Rendah
+3325-FUYCG,One year,28,106.1,Fiber optic,Electronic check,0.2656,Rendah
+2279-AXJJK,Month-to-month,52,95.65,Fiber optic,Credit card (automatic),0.2655,Rendah
+0668-OGMHD,Month-to-month,21,28.5,DSL,Electronic check,0.2649,Rendah
+5136-RGMZO,Month-to-month,31,71.05,DSL,Electronic check,0.2644,Rendah
+9163-GHAYE,Month-to-month,15,48.85,DSL,Electronic check,0.2637,Rendah
+1809-DMJHQ,Month-to-month,5,46.0,DSL,Mailed check,0.2637,Rendah
+4672-FOTSD,Month-to-month,12,67.25,DSL,Electronic check,0.263,Rendah
+2828-SLQPF,Month-to-month,19,45.0,DSL,Bank transfer (automatic),0.2625,Rendah
+1575-KRZZE,Month-to-month,4,55.2,DSL,Electronic check,0.2623,Rendah
+5136-GFPMB,Month-to-month,54,89.4,Fiber optic,Credit card (automatic),0.2622,Rendah
+7854-EKTJL,Month-to-month,2,19.6,No,Electronic check,0.2614,Rendah
+2669-QVCRG,Month-to-month,41,81.3,Fiber optic,Credit card (automatic),0.2604,Rendah
+2108-YKQTY,Month-to-month,4,50.7,DSL,Credit card (automatic),0.2604,Rendah
+4468-YDOVK,Month-to-month,5,48.65,DSL,Bank transfer (automatic),0.2603,Rendah
+2293-IJWPS,One year,57,100.75,Fiber optic,Credit card (automatic),0.2597,Rendah
+2391-SOORI,Month-to-month,4,49.35,DSL,Electronic check,0.2597,Rendah
+4667-OHGKG,Month-to-month,1,19.3,No,Mailed check,0.2597,Rendah
+2924-KHUVI,One year,56,100.55,Fiber optic,Electronic check,0.2593,Rendah
+0959-WHOKV,One year,42,99.0,Fiber optic,Electronic check,0.2586,Rendah
+0058-EVZWM,Month-to-month,55,89.8,Fiber optic,Bank transfer (automatic),0.2584,Rendah
+7629-WIXZF,One year,7,59.1,DSL,Electronic check,0.2582,Rendah
+3604-WLABM,Month-to-month,10,54.25,DSL,Electronic check,0.258,Rendah
+2369-FEVNO,Month-to-month,1,19.9,No,Mailed check,0.2579,Rendah
+1240-KNSEZ,Month-to-month,1,20.1,No,Mailed check,0.2573,Rendah
+7398-LXGYX,Month-to-month,44,84.8,Fiber optic,Credit card (automatic),0.2551,Rendah
+1622-HSHSF,Month-to-month,1,19.55,No,Mailed check,0.2546,Rendah
+0742-MOABM,Month-to-month,4,50.05,DSL,Mailed check,0.254,Rendah
+0471-ARVMX,One year,62,104.85,Fiber optic,Electronic check,0.2538,Rendah
+6815-ABQFQ,One year,56,107.25,Fiber optic,Electronic check,0.2533,Rendah
+9544-PYPSJ,Month-to-month,62,96.1,Fiber optic,Credit card (automatic),0.2522,Rendah
+6284-KMNUF,One year,56,98.0,Fiber optic,Electronic check,0.2519,Rendah
+1360-JYXKQ,One year,54,99.1,Fiber optic,Electronic check,0.2511,Rendah
+3756-VNWDH,One year,65,100.75,Fiber optic,Electronic check,0.2504,Rendah
+2778-OCLGR,Month-to-month,24,39.1,DSL,Bank transfer (automatic),0.2501,Rendah
+7054-ENNGU,Month-to-month,9,50.85,DSL,Mailed check,0.2495,Rendah
+2522-AHJXR,Month-to-month,60,109.45,Fiber optic,Bank transfer (automatic),0.2481,Rendah
+6366-XIVKZ,Month-to-month,13,63.15,DSL,Mailed check,0.2477,Rendah
+5186-EJEGL,Month-to-month,9,69.5,DSL,Mailed check,0.2471,Rendah
+8992-CEUEN,Month-to-month,1,18.85,No,Electronic check,0.2449,Rendah
+1470-PSXNM,One year,49,93.65,Fiber optic,Electronic check,0.2446,Rendah
+2480-EJWYP,One year,58,97.8,Fiber optic,Bank transfer (automatic),0.2445,Rendah
+7893-IXHRQ,Month-to-month,1,20.55,No,Electronic check,0.2442,Rendah
+3594-IVHJZ,Month-to-month,2,20.45,No,Mailed check,0.2435,Rendah
+1493-AMTIE,Month-to-month,1,20.2,No,Bank transfer (automatic),0.2429,Rendah
+4524-QCSSM,Month-to-month,26,44.65,DSL,Bank transfer (automatic),0.2424,Rendah
+6184-DYUOB,Month-to-month,3,19.6,No,Mailed check,0.2411,Rendah
+4945-RVMTE,Month-to-month,28,59.55,DSL,Bank transfer (automatic),0.2407,Rendah
+8620-RJPZN,Month-to-month,1,20.7,No,Electronic check,0.2396,Rendah
+6890-PFRQX,Month-to-month,18,69.5,DSL,Mailed check,0.2389,Rendah
+2955-PSXOE,Month-to-month,1,20.2,No,Bank transfer (automatic),0.2388,Rendah
+7251-XFOIL,Month-to-month,61,89.2,Fiber optic,Mailed check,0.2387,Rendah
+7853-WNZSY,Month-to-month,1,19.75,No,Credit card (automatic),0.2387,Rendah
+7124-UGSUR,One year,61,104.4,Fiber optic,Credit card (automatic),0.2384,Rendah
+7733-UDMTP,Month-to-month,57,55.0,DSL,Electronic check,0.2381,Rendah
+1087-UDSIH,Month-to-month,3,19.6,No,Mailed check,0.2373,Rendah
+0719-SYFRB,Month-to-month,12,61.65,DSL,Mailed check,0.2372,Rendah
+6773-LQTVT,Month-to-month,29,35.65,DSL,Mailed check,0.2358,Rendah
+6898-MDLZW,Month-to-month,12,53.75,DSL,Mailed check,0.2345,Rendah
+8713-IGZSO,Month-to-month,2,24.85,No,Mailed check,0.2343,Rendah
+9254-RBFON,One year,17,98.6,Fiber optic,Bank transfer (automatic),0.234,Rendah
+4003-FUSHP,Month-to-month,19,61.55,DSL,Credit card (automatic),0.2334,Rendah
+0701-TJSEF,Month-to-month,9,68.25,DSL,Bank transfer (automatic),0.2334,Rendah
+5949-EBSQK,Month-to-month,4,61.45,DSL,Credit card (automatic),0.2317,Rendah
+5630-AHZIL,Month-to-month,3,64.5,DSL,Bank transfer (automatic),0.2315,Rendah
+6473-ULUHT,Month-to-month,16,84.9,DSL,Electronic check,0.2313,Rendah
+3780-DDGSE,Month-to-month,35,76.05,DSL,Electronic check,0.229,Rendah
+4693-VWVBO,Month-to-month,3,19.55,No,Electronic check,0.2263,Rendah
+2446-ZKVAF,Month-to-month,18,56.8,DSL,Credit card (automatic),0.2256,Rendah
+3982-XWFZQ,Month-to-month,42,50.25,DSL,Electronic check,0.2256,Rendah
+2478-EEWWM,Month-to-month,59,44.3,DSL,Electronic check,0.2249,Rendah
+1074-AMIOH,Month-to-month,53,108.25,Fiber optic,Bank transfer (automatic),0.2248,Rendah
+3179-GBRWV,Month-to-month,21,64.95,DSL,Bank transfer (automatic),0.2245,Rendah
+8190-ZTQFB,One year,41,51.35,DSL,Electronic check,0.2245,Rendah
+7426-WEIJX,Month-to-month,60,80.95,Fiber optic,Electronic check,0.2242,Rendah
+2995-UPRYS,One year,40,99.2,Fiber optic,Credit card (automatic),0.2237,Rendah
+6270-OMFIW,One year,60,94.4,Fiber optic,Electronic check,0.2235,Rendah
+8930-XOTDP,Month-to-month,18,55.95,DSL,Mailed check,0.2231,Rendah
+2087-QAREY,Month-to-month,22,54.7,DSL,Mailed check,0.2221,Rendah
+6483-OATDN,Month-to-month,8,51.3,DSL,Credit card (automatic),0.2212,Rendah
+7957-RYHQD,Month-to-month,40,79.2,Fiber optic,Credit card (automatic),0.2206,Rendah
+0463-WZZKO,Month-to-month,3,20.75,No,Credit card (automatic),0.2198,Rendah
+0913-XWSCN,Month-to-month,55,85.5,Fiber optic,Bank transfer (automatic),0.2195,Rendah
+9629-NHXFW,Month-to-month,1,19.4,No,Mailed check,0.2184,Rendah
+7395-XWZOY,Month-to-month,20,55.0,DSL,Credit card (automatic),0.2167,Rendah
+4016-BJKTZ,Two year,25,108.9,Fiber optic,Electronic check,0.2161,Rendah
+9537-VHDTA,Month-to-month,1,51.2,DSL,Mailed check,0.2153,Rendah
+8970-ANWXO,One year,23,73.75,DSL,Mailed check,0.2147,Rendah
+0516-OOHAR,One year,28,100.35,Fiber optic,Bank transfer (automatic),0.2142,Rendah
+2843-CQMEG,Month-to-month,24,49.7,DSL,Mailed check,0.2138,Rendah
+4377-VDHYI,One year,32,90.8,Fiber optic,Electronic check,0.2125,Rendah
+8409-WQJUX,One year,25,54.2,DSL,Electronic check,0.2123,Rendah
+4160-AMJTL,Month-to-month,8,19.65,No,Electronic check,0.2119,Rendah
+9033-EOXWV,One year,12,74.05,DSL,Mailed check,0.2116,Rendah
+7130-CTCUS,Month-to-month,16,54.55,DSL,Bank transfer (automatic),0.2114,Rendah
+0733-VUNUW,Month-to-month,24,55.65,DSL,Bank transfer (automatic),0.2111,Rendah
+8166-ORCHU,One year,33,93.55,Fiber optic,Electronic check,0.2106,Rendah
+5198-EFNBM,One year,57,90.65,Fiber optic,Electronic check,0.2106,Rendah
+1386-ZIKUV,Month-to-month,7,18.95,No,Mailed check,0.2105,Rendah
+0895-LMRSF,One year,23,64.9,DSL,Bank transfer (automatic),0.2087,Rendah
+9788-YTFGE,Month-to-month,7,19.95,No,Mailed check,0.2085,Rendah
+9374-YOLBJ,Month-to-month,1,19.25,No,Electronic check,0.2082,Rendah
+5482-NUPNA,Month-to-month,4,60.4,DSL,Mailed check,0.2078,Rendah
+3679-XASPY,Month-to-month,1,19.45,No,Electronic check,0.2077,Rendah
+3858-XHYJO,One year,40,105.75,Fiber optic,Bank transfer (automatic),0.2052,Rendah
+9138-EFSMO,One year,26,78.95,Fiber optic,Bank transfer (automatic),0.2052,Rendah
+0365-TRTPY,Month-to-month,37,91.2,Fiber optic,Bank transfer (automatic),0.2051,Rendah
+6777-TGHTM,One year,53,106.95,Fiber optic,Credit card (automatic),0.2046,Rendah
+3694-GLTJM,Month-to-month,5,19.65,No,Credit card (automatic),0.2029,Rendah
+8985-OOPOS,One year,1,74.1,DSL,Credit card (automatic),0.2023,Rendah
+6733-LRIZX,Two year,35,108.95,Fiber optic,Electronic check,0.2014,Rendah
+2758-RNWXS,One year,35,89.2,Fiber optic,Electronic check,0.2007,Rendah
+6258-NGCNG,Month-to-month,7,23.5,No,Mailed check,0.199,Rendah
+4541-RMRLG,Month-to-month,7,19.25,No,Electronic check,0.1988,Rendah
+3794-NFNCH,Month-to-month,30,50.0,DSL,Mailed check,0.198,Rendah
+9025-ZRPVR,Month-to-month,9,18.95,No,Mailed check,0.196,Rendah
+1015-OWJKI,Month-to-month,1,19.05,No,Mailed check,0.1954,Rendah
+7266-GSSJX,Month-to-month,11,20.45,No,Electronic check,0.1952,Rendah
+5766-ZJYBB,Month-to-month,1,19.4,No,Mailed check,0.1946,Rendah
+7239-HZZCX,Month-to-month,1,19.75,No,Mailed check,0.1937,Rendah
+3930-ZGWVE,Month-to-month,1,19.75,No,Mailed check,0.1937,Rendah
+4892-VLANZ,Month-to-month,1,19.8,No,Mailed check,0.1936,Rendah
+6286-SUUWT,Month-to-month,1,19.95,No,Mailed check,0.1933,Rendah
+8749-CLJXC,Month-to-month,1,20.05,No,Mailed check,0.193,Rendah
+4211-MMAZN,Month-to-month,1,20.25,No,Mailed check,0.1925,Rendah
+9122-UMROB,Month-to-month,1,20.3,No,Mailed check,0.1924,Rendah
+2668-TZSPS,Month-to-month,1,20.45,No,Mailed check,0.1921,Rendah
+3976-NLDEZ,Month-to-month,1,20.6,No,Mailed check,0.1917,Rendah
+1110-KYLGQ,Month-to-month,63,108.25,Fiber optic,Credit card (automatic),0.1914,Rendah
+1855-CFULU,Month-to-month,4,20.05,No,Mailed check,0.1913,Rendah
+4013-GUXND,Month-to-month,1,20.8,No,Mailed check,0.1912,Rendah
+1707-HABPF,One year,46,91.3,Fiber optic,Bank transfer (automatic),0.1906,Rendah
+6654-QGBZZ,Month-to-month,1,19.9,No,Mailed check,0.1899,Rendah
+6421-SZVEM,One year,28,82.85,Fiber optic,Bank transfer (automatic),0.1897,Rendah
+2091-MJTFX,Month-to-month,30,51.2,DSL,Credit card (automatic),0.1896,Rendah
+3639-XJHKQ,Month-to-month,19,60.6,DSL,Electronic check,0.1895,Rendah
+4237-CLSMM,Month-to-month,2,20.0,No,Mailed check,0.1892,Rendah
+3339-EAQNV,One year,72,97.25,Fiber optic,Credit card (automatic),0.1892,Rendah
+1963-VAUKV,Month-to-month,1,20.4,No,Mailed check,0.1887,Rendah
+3313-QKNKB,One year,59,85.55,Fiber optic,Electronic check,0.1876,Rendah
+7919-ZODZZ,One year,10,65.9,DSL,Mailed check,0.1866,Rendah
+5469-CTCWN,One year,61,106.0,Fiber optic,Electronic check,0.1862,Rendah
+8495-PRWFH,Month-to-month,42,55.65,DSL,Electronic check,0.1858,Rendah
+5951-AOFIH,Month-to-month,33,66.4,DSL,Credit card (automatic),0.1857,Rendah
+0048-LUMLS,One year,37,91.2,Fiber optic,Credit card (automatic),0.1855,Rendah
+7134-MJPDY,One year,66,102.85,Fiber optic,Credit card (automatic),0.1851,Rendah
+2308-STERM,Month-to-month,2,19.4,No,Mailed check,0.1848,Rendah
+2155-AMQRX,Month-to-month,28,54.9,DSL,Credit card (automatic),0.1844,Rendah
+0816-TSPHQ,Month-to-month,2,20.75,No,Mailed check,0.1844,Rendah
+4701-MLJPN,Month-to-month,31,55.25,DSL,Electronic check,0.1843,Rendah
+2750-BJLSB,One year,47,103.7,Fiber optic,Electronic check,0.184,Rendah
+1051-GEJLJ,Month-to-month,2,19.5,No,Mailed check,0.1834,Rendah
+9139-WQQDY,One year,49,100.45,Fiber optic,Mailed check,0.1827,Rendah
+1194-SPVSP,Month-to-month,1,19.65,No,Bank transfer (automatic),0.1825,Rendah
+6497-TILVL,Month-to-month,7,50.7,DSL,Mailed check,0.1823,Rendah
+3847-BAERP,Month-to-month,10,20.9,No,Mailed check,0.1823,Rendah
+9565-JSNFM,One year,38,70.45,Fiber optic,Bank transfer (automatic),0.1818,Rendah
+2839-RFSQE,Month-to-month,2,20.65,No,Mailed check,0.1811,Rendah
+1784-BXEFA,Month-to-month,10,20.55,No,Mailed check,0.181,Rendah
+4753-PADAS,One year,67,105.7,Fiber optic,Bank transfer (automatic),0.1809,Rendah
+9701-CDXHR,Month-to-month,51,69.15,Fiber optic,Mailed check,0.1803,Rendah
+6776-TLWOI,Month-to-month,3,19.85,No,Mailed check,0.1796,Rendah
+2252-JHJGE,One year,61,104.0,Fiber optic,Electronic check,0.1793,Rendah
+9097-ZUBYC,Month-to-month,14,48.8,DSL,Bank transfer (automatic),0.1778,Rendah
+9844-FELAJ,One year,70,107.9,Fiber optic,Electronic check,0.177,Rendah
+9820-RMCQV,Month-to-month,11,48.55,DSL,Credit card (automatic),0.1768,Rendah
+0178-CIIKR,Month-to-month,3,19.95,No,Mailed check,0.1759,Rendah
+2700-LUEVA,Month-to-month,1,20.75,No,Credit card (automatic),0.1756,Rendah
+6383-ZTSIW,One year,39,99.1,Fiber optic,Mailed check,0.1748,Rendah
+7017-VFULY,Month-to-month,2,20.1,No,Bank transfer (automatic),0.1746,Rendah
+4184-VODJZ,One year,63,91.35,Fiber optic,Electronic check,0.1743,Rendah
+3090-QFUVD,Month-to-month,1,20.3,No,Credit card (automatic),0.1733,Rendah
+9972-VAFJJ,One year,53,94.0,Fiber optic,Electronic check,0.1728,Rendah
+1385-TQOZW,Month-to-month,9,20.45,No,Credit card (automatic),0.172,Rendah
+9040-KZVWO,One year,26,75.5,Fiber optic,Bank transfer (automatic),0.1716,Rendah
+9909-DFRJA,One year,26,95.85,Fiber optic,Bank transfer (automatic),0.1712,Rendah
+4700-UBQMV,One year,21,75.9,DSL,Bank transfer (automatic),0.1702,Rendah
+5140-FOMCQ,One year,59,109.15,Fiber optic,Credit card (automatic),0.1685,Rendah
+5155-AZQPB,Month-to-month,28,49.9,DSL,Mailed check,0.1677,Rendah
+3413-CSSTH,Month-to-month,41,55.7,DSL,Bank transfer (automatic),0.1669,Rendah
+2659-VXMWZ,One year,67,111.3,Fiber optic,Electronic check,0.1661,Rendah
+6583-SZVGP,Two year,48,108.1,Fiber optic,Bank transfer (automatic),0.1651,Rendah
+6112-KTHFQ,Month-to-month,13,19.3,No,Mailed check,0.165,Rendah
+1629-DQQVB,Month-to-month,14,50.1,DSL,Bank transfer (automatic),0.1628,Rendah
+5473-KHBPS,One year,52,95.7,Fiber optic,Credit card (automatic),0.1619,Rendah
+9962-BFPDU,Month-to-month,1,20.05,No,Mailed check,0.1602,Rendah
+7356-AYNJP,One year,4,23.9,No,Electronic check,0.1592,Rendah
+3948-FVVRP,Month-to-month,9,54.8,DSL,Mailed check,0.1589,Rendah
+8433-WPJTV,One year,65,103.9,Fiber optic,Bank transfer (automatic),0.1586,Rendah
+0870-VEMYL,Month-to-month,5,53.85,DSL,Credit card (automatic),0.1586,Rendah
+2040-OBMLJ,One year,31,81.7,Fiber optic,Credit card (automatic),0.1582,Rendah
+0484-FFVBJ,One year,32,64.85,DSL,Bank transfer (automatic),0.1578,Rendah
+0440-QEXBZ,Month-to-month,44,50.15,DSL,Mailed check,0.1573,Rendah
+3523-QRQLL,One year,22,69.5,DSL,Bank transfer (automatic),0.1571,Rendah
+9986-BONCE,Month-to-month,4,20.95,No,Bank transfer (automatic),0.1571,Rendah
+5850-BDWCY,Month-to-month,6,20.2,No,Mailed check,0.1563,Rendah
+4402-FTBXC,Month-to-month,54,89.8,Fiber optic,Mailed check,0.1555,Rendah
+0373-AIVNJ,One year,9,39.55,DSL,Mailed check,0.1548,Rendah
+4190-MFLUW,Month-to-month,10,55.2,DSL,Credit card (automatic),0.1543,Rendah
+9364-YKUVW,Month-to-month,15,19.8,No,Mailed check,0.1543,Rendah
+3675-EQOZA,Month-to-month,5,20.65,No,Bank transfer (automatic),0.1542,Rendah
+4075-JFPGR,One year,51,93.5,Fiber optic,Electronic check,0.1527,Rendah
+1852-XEMDW,Month-to-month,22,65.05,DSL,Mailed check,0.1525,Rendah
+2159-TURXX,Month-to-month,5,20.05,No,Credit card (automatic),0.1516,Rendah
+2212-LYASK,One year,27,45.85,DSL,Credit card (automatic),0.1514,Rendah
+8053-WWDRO,Month-to-month,6,19.5,No,Bank transfer (automatic),0.1514,Rendah
+4946-EDSEW,Month-to-month,11,19.25,No,Mailed check,0.1487,Rendah
+4079-VTGLK,Two year,30,74.85,DSL,Electronic check,0.148,Rendah
+7764-BDPEE,Month-to-month,3,20.85,No,Mailed check,0.1467,Rendah
+4701-AHWMW,Month-to-month,55,54.55,DSL,Bank transfer (automatic),0.1457,Rendah
+1360-XFJMR,One year,67,109.7,Fiber optic,Credit card (automatic),0.1444,Rendah
+7879-CGSFV,One year,55,100.9,Fiber optic,Mailed check,0.1436,Rendah
+2748-MYRVK,One year,63,99.9,Fiber optic,Bank transfer (automatic),0.1418,Rendah
+5440-VHLUL,One year,69,105.2,Fiber optic,Bank transfer (automatic),0.1412,Rendah
+5014-WUQMG,One year,47,96.1,Fiber optic,Electronic check,0.141,Rendah
+3011-WQKSZ,Month-to-month,19,20.0,No,Electronic check,0.1407,Rendah
+0665-XHDJU,Two year,72,99.4,Fiber optic,Electronic check,0.1385,Rendah
+2969-WGHQO,One year,7,69.45,DSL,Electronic check,0.1385,Rendah
+9115-YQHGA,Month-to-month,40,51.1,DSL,Electronic check,0.1383,Rendah
+4332-MUOEZ,One year,20,94.3,Fiber optic,Credit card (automatic),0.138,Rendah
+7789-CRUVC,Month-to-month,61,94.2,Fiber optic,Credit card (automatic),0.1379,Rendah
+3865-ZYKAD,Month-to-month,69,84.9,Fiber optic,Credit card (automatic),0.1376,Rendah
+5966-EMAZU,One year,64,108.5,Fiber optic,Mailed check,0.1373,Rendah
+2001-MCUUW,Two year,46,108.65,Fiber optic,Electronic check,0.1358,Rendah
+2972-YDYUW,One year,57,94.7,Fiber optic,Electronic check,0.1349,Rendah
+5863-OOKCL,Month-to-month,10,18.85,No,Mailed check,0.1348,Rendah
+8849-GYOKR,One year,54,106.55,Fiber optic,Bank transfer (automatic),0.1347,Rendah
+5566-SOEZD,One year,27,80.65,Fiber optic,Credit card (automatic),0.1331,Rendah
+2019-HDCZY,Two year,63,102.6,Fiber optic,Electronic check,0.1319,Rendah
+3077-RSNTJ,Month-to-month,6,19.7,No,Mailed check,0.1319,Rendah
+6164-HXUGH,Month-to-month,6,19.85,No,Mailed check,0.1318,Rendah
+6198-PNNSZ,One year,56,109.8,Fiber optic,Bank transfer (automatic),0.1304,Rendah
+2923-ARZLG,One year,0,19.7,No,Mailed check,0.1304,Rendah
+2001-EWBQU,Two year,60,104.7,Fiber optic,Electronic check,0.1303,Rendah
+5533-RJFTJ,Month-to-month,49,30.2,DSL,Bank transfer (automatic),0.129,Rendah
+0447-BEMNG,Month-to-month,48,45.3,DSL,Bank transfer (automatic),0.1289,Rendah
+4830-FAXFM,Month-to-month,19,24.1,No,Credit card (automatic),0.1289,Rendah
+0997-YTLNY,Month-to-month,19,48.8,DSL,Mailed check,0.1286,Rendah
+2233-TXSIU,One year,17,44.45,DSL,Credit card (automatic),0.128,Rendah
+5240-CAOYT,Month-to-month,57,87.55,Fiber optic,Bank transfer (automatic),0.1265,Rendah
+5921-NGYRH,Month-to-month,64,73.55,Fiber optic,Mailed check,0.1251,Rendah
+2428-ZMCTB,Month-to-month,10,19.75,No,Credit card (automatic),0.125,Rendah
+3680-CTHUH,One year,60,116.6,Fiber optic,Credit card (automatic),0.1249,Rendah
+8671-KKKOS,Month-to-month,46,45.55,DSL,Electronic check,0.1245,Rendah
+9357-UJRUN,One year,24,58.35,DSL,Electronic check,0.1244,Rendah
+5081-NWSUP,One year,10,64.9,DSL,Mailed check,0.1244,Rendah
+6900-RBKER,Two year,52,89.45,Fiber optic,Credit card (automatic),0.1239,Rendah
+7572-KPVKK,Two year,62,104.05,Fiber optic,Electronic check,0.1233,Rendah
+9633-DENPU,Month-to-month,47,58.6,DSL,Bank transfer (automatic),0.1229,Rendah
+6838-HVLXG,Month-to-month,12,20.3,No,Mailed check,0.1229,Rendah
+9367-TCUYN,Month-to-month,12,20.1,No,Mailed check,0.1227,Rendah
+4489-SNOJF,Month-to-month,35,72.25,DSL,Electronic check,0.1226,Rendah
+2294-DMMUS,Month-to-month,62,70.45,DSL,Credit card (automatic),0.1223,Rendah
+0297-RBCSG,One year,19,65.35,DSL,Bank transfer (automatic),0.1221,Rendah
+3623-FQBOX,Month-to-month,21,19.95,No,Mailed check,0.1208,Rendah
+4002-BQWPQ,Month-to-month,25,81.75,DSL,Bank transfer (automatic),0.1205,Rendah
+9256-JTBNZ,Month-to-month,11,20.3,No,Bank transfer (automatic),0.1203,Rendah
+8401-EMUWF,Month-to-month,42,69.4,DSL,Bank transfer (automatic),0.12,Rendah
+0257-KXZGU,Month-to-month,32,62.45,DSL,Bank transfer (automatic),0.1199,Rendah
+1346-PJWTK,Month-to-month,61,94.15,Fiber optic,Credit card (automatic),0.1189,Rendah
+7311-MQJCH,One year,5,19.55,No,Electronic check,0.1183,Rendah
+9107-UKCKY,One year,61,79.8,DSL,Electronic check,0.1179,Rendah
+3181-MIZBN,Month-to-month,16,19.75,No,Electronic check,0.1174,Rendah
+4353-HYOJD,Month-to-month,27,49.85,DSL,Mailed check,0.1164,Rendah
+0516-UXRMT,One year,62,92.05,Fiber optic,Electronic check,0.1164,Rendah
+7159-NOKYQ,Two year,67,93.15,Fiber optic,Electronic check,0.1163,Rendah
+9039-RBEEE,Month-to-month,39,48.95,DSL,Credit card (automatic),0.1162,Rendah
+8735-NBLWT,Month-to-month,9,20.4,No,Mailed check,0.116,Rendah
+7531-GQHME,Month-to-month,12,20.05,No,Credit card (automatic),0.1151,Rendah
+3729-OWRVL,Two year,65,110.35,Fiber optic,Electronic check,0.1151,Rendah
+8457-XIGKN,Month-to-month,20,19.6,No,Credit card (automatic),0.1143,Rendah
+2307-FYNNL,Two year,65,109.05,Fiber optic,Electronic check,0.114,Rendah
+9480-BQJEI,One year,62,92.3,Fiber optic,Bank transfer (automatic),0.1133,Rendah
+5025-GOOKI,Month-to-month,20,18.9,No,Credit card (automatic),0.1129,Rendah
+5161-XEUVX,Two year,37,94.3,Fiber optic,Mailed check,0.1126,Rendah
+0076-LVEPS,Month-to-month,29,45.0,DSL,Mailed check,0.1124,Rendah
+4785-QRJHC,One year,46,59.9,DSL,Bank transfer (automatic),0.1123,Rendah
+7641-TQFHN,Two year,39,100.55,Fiber optic,Mailed check,0.1121,Rendah
+6568-POCUI,Two year,45,95.2,Fiber optic,Credit card (automatic),0.1116,Rendah
+6297-NOOPG,Two year,70,110.5,Fiber optic,Electronic check,0.1114,Rendah
+6933-FHBZC,One year,26,56.05,DSL,Mailed check,0.1091,Rendah
+7666-WKRON,Two year,39,80.45,Fiber optic,Electronic check,0.1078,Rendah
+6784-XYJAE,One year,36,55.8,DSL,Electronic check,0.1073,Rendah
+0440-UEDAI,One year,53,94.45,Fiber optic,Credit card (automatic),0.1073,Rendah
+0536-ACXIP,Two year,72,109.55,Fiber optic,Electronic check,0.1071,Rendah
+9128-CPXKI,Two year,59,95.8,Fiber optic,Electronic check,0.1064,Rendah
+8034-RYTVV,One year,55,84.25,Fiber optic,Credit card (automatic),0.106,Rendah
+3571-DPYUH,One year,58,94.7,Fiber optic,Credit card (automatic),0.1053,Rendah
+1131-SUEKT,One year,61,98.45,Fiber optic,Bank transfer (automatic),0.105,Rendah
+2958-NHPPS,Month-to-month,23,20.85,No,Electronic check,0.1043,Rendah
+1218-VKFPE,Month-to-month,12,19.0,No,Mailed check,0.1042,Rendah
+9378-FXTIZ,One year,54,70.15,DSL,Credit card (automatic),0.1039,Rendah
+0743-HRVFF,One year,51,56.15,DSL,Electronic check,0.1036,Rendah
+3733-UOCWF,One year,61,85.55,Fiber optic,Bank transfer (automatic),0.1029,Rendah
+0377-JBKKT,Month-to-month,22,57.95,DSL,Mailed check,0.1027,Rendah
+2926-JEJJC,One year,8,20.2,No,Bank transfer (automatic),0.102,Rendah
+5360-LJCNJ,Two year,71,105.15,Fiber optic,Bank transfer (automatic),0.102,Rendah
+2165-VOEGB,One year,46,105.2,Fiber optic,Bank transfer (automatic),0.1013,Rendah
+7803-XOCCZ,Month-to-month,52,84.05,Fiber optic,Bank transfer (automatic),0.1012,Rendah
+4419-UJMUS,Two year,69,99.35,Fiber optic,Electronic check,0.1,Rendah
+5808-TOTXO,One year,3,20.55,No,Credit card (automatic),0.0998,Rendah
+9143-CANJF,Month-to-month,24,55.15,DSL,Electronic check,0.0995,Rendah
+5236-PERKL,Two year,57,112.95,Fiber optic,Bank transfer (automatic),0.0992,Rendah
+3594-UVONA,One year,35,85.95,DSL,Credit card (automatic),0.0991,Rendah
+1492-QGCLU,Month-to-month,53,85.7,DSL,Electronic check,0.0975,Rendah
+8909-BOLNL,One year,3,21.2,No,Mailed check,0.0971,Rendah
+2272-WUSPA,Two year,72,110.75,Fiber optic,Electronic check,0.0967,Rendah
+2533-QVMSK,Two year,61,94.1,Fiber optic,Electronic check,0.0965,Rendah
+9330-VOFSZ,Two year,60,110.8,Fiber optic,Credit card (automatic),0.0961,Rendah
+9052-DHNKM,One year,26,61.55,DSL,Electronic check,0.096,Rendah
+0289-IVARM,Month-to-month,35,60.55,DSL,Electronic check,0.0948,Rendah
+5619-XZZKR,One year,4,19.95,No,Mailed check,0.0947,Rendah
+6598-RFFVI,One year,2,19.3,No,Credit card (automatic),0.0945,Rendah
+0725-CXOTM,One year,36,89.65,DSL,Credit card (automatic),0.0944,Rendah
+8780-RSYYU,Month-to-month,25,19.2,No,Credit card (automatic),0.093,Rendah
+9972-NKTFD,Month-to-month,28,54.65,DSL,Bank transfer (automatic),0.0927,Rendah
+6993-YCOBK,Two year,60,110.6,Fiber optic,Electronic check,0.0919,Rendah
+3096-WPXBT,One year,61,100.7,Fiber optic,Credit card (automatic),0.0918,Rendah
+5514-YQENT,Two year,41,111.15,Fiber optic,Electronic check,0.0918,Rendah
+6968-MHOMU,One year,58,45.0,DSL,Credit card (automatic),0.0917,Rendah
+6968-URWQU,One year,43,56.35,DSL,Mailed check,0.0916,Rendah
+3896-RCYYE,Month-to-month,67,53.4,DSL,Credit card (automatic),0.0913,Rendah
+2967-MXRAV,One year,1,18.8,No,Mailed check,0.091,Rendah
+9715-WZCLW,Two year,71,97.2,Fiber optic,Electronic check,0.0907,Rendah
+5027-YOCXN,One year,51,110.05,Fiber optic,Credit card (automatic),0.0903,Rendah
+5445-PZWGX,One year,62,102.0,Fiber optic,Electronic check,0.0903,Rendah
+1530-ZTDOZ,Month-to-month,49,40.65,DSL,Bank transfer (automatic),0.0902,Rendah
+6242-SGYTS,One year,62,94.95,Fiber optic,Credit card (automatic),0.0898,Rendah
+9013-AQORL,Month-to-month,48,45.55,DSL,Credit card (automatic),0.0896,Rendah
+4759-PXTAN,One year,59,80.1,DSL,Electronic check,0.0893,Rendah
+2239-CFOUJ,One year,1,20.4,No,Mailed check,0.089,Rendah
+1730-VFMWO,Month-to-month,34,50.2,DSL,Bank transfer (automatic),0.0887,Rendah
+5709-LVOEQ,Two year,0,80.85,DSL,Mailed check,0.0886,Rendah
+1729-VLAZJ,One year,10,40.25,DSL,Mailed check,0.0886,Rendah
+9586-JGQKH,Two year,64,105.4,Fiber optic,Bank transfer (automatic),0.0886,Rendah
+8089-UZWLX,Two year,71,104.05,Fiber optic,Bank transfer (automatic),0.088,Rendah
+1744-JHKYS,Month-to-month,34,24.7,No,Electronic check,0.088,Rendah
+3893-JRNFS,Month-to-month,68,39.9,DSL,Bank transfer (automatic),0.0875,Rendah
+7654-YWJUF,One year,43,84.25,Fiber optic,Bank transfer (automatic),0.0872,Rendah
+2834-JKOOW,One year,15,45.9,DSL,Mailed check,0.0871,Rendah
+4501-UYKBC,One year,46,69.1,DSL,Credit card (automatic),0.087,Rendah
+0106-UGRDO,Two year,69,116.0,Fiber optic,Electronic check,0.0861,Rendah
+2250-IVBWA,Month-to-month,64,81.05,Fiber optic,Electronic check,0.0861,Rendah
+9405-GPBBG,Two year,64,110.5,Fiber optic,Credit card (automatic),0.086,Rendah
+4464-JCOLN,One year,2,19.85,No,Mailed check,0.0859,Rendah
+7997-EASSD,One year,63,81.2,Fiber optic,Credit card (automatic),0.0857,Rendah
+8582-KRHPJ,Month-to-month,50,35.0,DSL,Mailed check,0.0857,Rendah
+6766-HFKLA,Two year,56,103.2,Fiber optic,Bank transfer (automatic),0.0856,Rendah
+5701-GUXDC,One year,26,35.4,DSL,Credit card (automatic),0.0856,Rendah
+2930-UOTMB,Month-to-month,31,65.25,DSL,Credit card (automatic),0.0851,Rendah
+5537-UXXVS,Month-to-month,20,19.25,No,Bank transfer (automatic),0.0847,Rendah
+5446-DKWYW,One year,61,65.2,DSL,Electronic check,0.0847,Rendah
+1395-OFUWC,Month-to-month,43,29.3,DSL,Credit card (automatic),0.0846,Rendah
+7036-TYDEC,Two year,69,104.0,Fiber optic,Electronic check,0.0843,Rendah
+1264-FUHCX,One year,49,56.3,DSL,Credit card (automatic),0.0826,Rendah
+7816-VGHTO,Two year,6,40.55,DSL,Mailed check,0.0824,Rendah
+7691-XVTZH,Two year,68,89.95,Fiber optic,Bank transfer (automatic),0.0812,Rendah
+8646-JCOMS,One year,66,90.55,Fiber optic,Bank transfer (automatic),0.0808,Rendah
+3354-OADJP,One year,8,54.25,DSL,Bank transfer (automatic),0.0801,Rendah
+7492-TAFJD,Two year,7,38.55,DSL,Mailed check,0.0798,Rendah
+0164-APGRB,Two year,72,114.9,Fiber optic,Electronic check,0.0796,Rendah
+7010-ZMVBF,Month-to-month,18,20.45,No,Mailed check,0.0794,Rendah
+2129-ALKBS,Month-to-month,40,26.2,No,Electronic check,0.0792,Rendah
+2746-DIJLO,One year,41,56.3,DSL,Credit card (automatic),0.0787,Rendah
+1038-RQOST,Month-to-month,19,20.6,No,Mailed check,0.0781,Rendah
+3229-USWAR,One year,34,79.95,DSL,Bank transfer (automatic),0.0771,Rendah
+9473-CBZOP,One year,28,59.0,DSL,Mailed check,0.0769,Rendah
+5857-XRECV,One year,2,20.5,No,Bank transfer (automatic),0.0763,Rendah
+9308-ANMVE,Month-to-month,47,55.3,DSL,Electronic check,0.0761,Rendah
+3324-OIRTO,One year,71,104.65,Fiber optic,Bank transfer (automatic),0.0756,Rendah
+4223-BKEOR,One year,21,64.85,DSL,Mailed check,0.0755,Rendah
+9866-OCCKE,Two year,72,109.75,Fiber optic,Mailed check,0.0755,Rendah
+0628-CNQRM,One year,22,67.5,DSL,Bank transfer (automatic),0.0755,Rendah
+1545-JFUML,Two year,71,99.0,Fiber optic,Electronic check,0.074,Rendah
+0980-FEXWF,One year,26,50.35,DSL,Mailed check,0.074,Rendah
+1952-DVVSW,One year,10,20.1,No,Mailed check,0.0732,Rendah
+7663-CUXZB,Two year,59,113.75,Fiber optic,Electronic check,0.0731,Rendah
+5271-YNWVR,Two year,68,113.15,Fiber optic,Electronic check,0.0728,Rendah
+2877-VDUER,One year,35,40.9,DSL,Mailed check,0.0728,Rendah
+0661-KBKPA,One year,53,78.75,DSL,Mailed check,0.0727,Rendah
+0983-TATYJ,One year,33,51.45,DSL,Mailed check,0.0724,Rendah
+5018-LXQQG,Month-to-month,30,66.3,DSL,Bank transfer (automatic),0.0724,Rendah
+8573-JGCZW,One year,17,19.65,No,Bank transfer (automatic),0.0722,Rendah
+9931-KGHOA,Month-to-month,46,55.0,DSL,Bank transfer (automatic),0.0722,Rendah
+8819-ZBYNA,Two year,58,109.1,Fiber optic,Credit card (automatic),0.0721,Rendah
+6682-QJDGB,Month-to-month,40,55.25,DSL,Mailed check,0.0713,Rendah
+6734-FQAJX,Two year,67,105.05,Fiber optic,Electronic check,0.0711,Rendah
+7649-PHJVR,One year,11,19.5,No,Mailed check,0.0711,Rendah
+5049-MUBWG,One year,26,75.0,DSL,Bank transfer (automatic),0.0711,Rendah
+4137-JOPHL,Two year,50,89.7,Fiber optic,Bank transfer (automatic),0.0709,Rendah
+7762-ONLJY,One year,6,19.7,No,Mailed check,0.0708,Rendah
+1444-VVSGW,One year,70,115.65,Fiber optic,Credit card (automatic),0.0704,Rendah
+2408-PSJVE,Month-to-month,44,61.9,DSL,Mailed check,0.0701,Rendah
+6967-PEJLL,One year,37,40.2,DSL,Electronic check,0.0696,Rendah
+9313-QOLTZ,Month-to-month,26,20.9,No,Mailed check,0.069,Rendah
+9822-BIIGN,Month-to-month,53,71.85,DSL,Electronic check,0.069,Rendah
+3750-YHRYO,One year,7,20.65,No,Mailed check,0.0688,Rendah
+7032-LMBHI,One year,37,64.65,DSL,Bank transfer (automatic),0.0687,Rendah
+2522-WLNSF,One year,34,64.2,DSL,Bank transfer (automatic),0.0687,Rendah
+9402-ROUMJ,One year,67,100.25,Fiber optic,Bank transfer (automatic),0.0687,Rendah
+5062-CJJKH,One year,25,53.65,DSL,Mailed check,0.0685,Rendah
+5753-QQWPW,One year,28,59.9,DSL,Electronic check,0.0683,Rendah
+3530-VWVGU,Month-to-month,22,19.9,No,Mailed check,0.0669,Rendah
+1136-XGEQU,One year,50,84.15,DSL,Credit card (automatic),0.0659,Rendah
+2788-CJQAQ,One year,13,19.45,No,Mailed check,0.0653,Rendah
+0134-XWXCE,One year,44,74.85,DSL,Bank transfer (automatic),0.0653,Rendah
+8015-IHCGW,Two year,72,115.5,Fiber optic,Electronic check,0.0644,Rendah
+5297-MDOIR,One year,63,81.15,Fiber optic,Credit card (automatic),0.0638,Rendah
+8591-TKMZH,Two year,59,111.1,Fiber optic,Mailed check,0.0632,Rendah
+5524-KHNJP,One year,33,74.75,DSL,Credit card (automatic),0.0631,Rendah
+2388-LAESQ,Two year,72,114.85,Fiber optic,Bank transfer (automatic),0.0628,Rendah
+7233-IOQNP,Month-to-month,43,34.0,DSL,Bank transfer (automatic),0.0626,Rendah
+9483-GCPWE,One year,9,20.1,No,Mailed check,0.0623,Rendah
+9351-HXDMR,Two year,72,110.9,Fiber optic,Credit card (automatic),0.062,Rendah
+4537-CIBHB,One year,9,20.25,No,Mailed check,0.0619,Rendah
+2323-ARSVR,Two year,67,111.05,Fiber optic,Electronic check,0.0617,Rendah
+1097-FSPVW,Month-to-month,42,54.55,DSL,Credit card (automatic),0.0614,Rendah
+0074-HDKDG,One year,25,61.6,DSL,Bank transfer (automatic),0.0613,Rendah
+5671-RQRLP,Two year,70,75.65,Fiber optic,Credit card (automatic),0.0613,Rendah
+9412-ARGBX,Two year,48,95.5,Fiber optic,Mailed check,0.061,Rendah
+5975-BAICR,One year,36,63.7,DSL,Credit card (automatic),0.0604,Rendah
+7677-SJJJK,One year,8,19.9,No,Credit card (automatic),0.0601,Rendah
+9917-KWRBE,One year,41,78.35,DSL,Credit card (automatic),0.0601,Rendah
+2798-NYLMZ,Two year,71,108.55,Fiber optic,Credit card (automatic),0.0589,Rendah
+6075-QMNRR,Month-to-month,52,49.75,DSL,Bank transfer (automatic),0.0587,Rendah
+7971-HLVXI,Two year,72,84.5,Fiber optic,Credit card (automatic),0.0585,Rendah
+6797-LNAQX,Two year,70,98.3,Fiber optic,Bank transfer (automatic),0.0581,Rendah
+2171-UDMFD,Month-to-month,32,19.45,No,Credit card (automatic),0.0581,Rendah
+8570-KLJYJ,One year,36,54.45,DSL,Mailed check,0.0572,Rendah
+8727-XDPUD,Two year,37,35.8,DSL,Credit card (automatic),0.0571,Rendah
+6434-TTGJP,Two year,10,53.7,DSL,Credit card (automatic),0.057,Rendah
+9070-BCKQP,Two year,72,110.15,Fiber optic,Credit card (automatic),0.0568,Rendah
+2907-ILJBN,One year,11,20.6,No,Mailed check,0.0567,Rendah
+0307-BCOPK,One year,16,19.05,No,Mailed check,0.0564,Rendah
+0866-QLSIR,One year,34,64.4,DSL,Mailed check,0.0555,Rendah
+8690-UPCZI,One year,29,69.05,DSL,Bank transfer (automatic),0.0554,Rendah
+2368-GAKKQ,Two year,70,113.65,Fiber optic,Bank transfer (automatic),0.0553,Rendah
+7191-ADRGF,Two year,44,54.3,DSL,Bank transfer (automatic),0.0553,Rendah
+9142-XMYJH,Month-to-month,29,19.35,No,Credit card (automatic),0.0552,Rendah
+3301-VKTGC,One year,68,85.5,Fiber optic,Bank transfer (automatic),0.055,Rendah
+0727-BNRLG,Two year,69,97.65,Fiber optic,Credit card (automatic),0.0549,Rendah
+5236-XMZJY,Month-to-month,42,59.65,DSL,Bank transfer (automatic),0.0544,Rendah
+9298-WGMRW,Two year,72,115.5,Fiber optic,Bank transfer (automatic),0.0541,Rendah
+3766-EJLFL,Two year,68,109.05,Fiber optic,Bank transfer (automatic),0.0537,Rendah
+8741-LQOBK,Month-to-month,46,35.05,DSL,Bank transfer (automatic),0.0534,Rendah
+5442-BXVND,Month-to-month,33,24.25,No,Bank transfer (automatic),0.0533,Rendah
+5505-OVWQW,One year,17,20.15,No,Mailed check,0.0532,Rendah
+9637-CDTKZ,Two year,72,114.1,Fiber optic,Credit card (automatic),0.0522,Rendah
+1133-KXCGE,One year,18,20.1,No,Mailed check,0.0513,Rendah
+1150-WFARN,Two year,67,108.75,Fiber optic,Credit card (automatic),0.051,Rendah
+9220-ZNKJI,Two year,55,88.8,Fiber optic,Credit card (automatic),0.0508,Rendah
+0056-EPFBG,Two year,20,39.4,DSL,Credit card (automatic),0.0507,Rendah
+6919-ELBGL,Two year,72,114.95,Fiber optic,Bank transfer (automatic),0.0505,Rendah
+3115-CZMZD,Two year,0,20.25,No,Mailed check,0.0503,Rendah
+7996-BPXHY,Two year,13,25.0,No,Bank transfer (automatic),0.0502,Rendah
+1741-WTPON,Two year,56,115.85,Fiber optic,Mailed check,0.0497,Rendah
+7838-LAZFO,One year,45,78.8,DSL,Bank transfer (automatic),0.0496,Rendah
+7369-TRPFD,One year,19,18.8,No,Mailed check,0.0495,Rendah
+6445-TNRXS,Two year,68,114.7,Fiber optic,Bank transfer (automatic),0.0495,Rendah
+7279-NMVJC,One year,17,19.9,No,Bank transfer (automatic),0.0494,Rendah
+1131-ALZWV,One year,24,24.6,No,Bank transfer (automatic),0.0493,Rendah
+9330-DHBFL,One year,23,66.25,DSL,Mailed check,0.0492,Rendah
+4717-GHADL,Two year,50,79.6,DSL,Mailed check,0.0484,Rendah
+8777-PVYGU,One year,52,64.3,DSL,Mailed check,0.0484,Rendah
+0019-EFAEP,Two year,72,101.3,Fiber optic,Bank transfer (automatic),0.0483,Rendah
+4359-INNWN,One year,17,20.05,No,Credit card (automatic),0.048,Rendah
+9860-LISIZ,Month-to-month,34,20.35,No,Mailed check,0.048,Rendah
+4627-MIHJH,Two year,69,110.25,Fiber optic,Credit card (automatic),0.0475,Rendah
+9534-NSXEM,One year,26,20.65,No,Credit card (automatic),0.0474,Rendah
+1036-GUDCL,Month-to-month,60,79.05,DSL,Credit card (automatic),0.0472,Rendah
+2320-TZRRH,One year,20,19.5,No,Mailed check,0.047,Rendah
+3396-DKDEL,Two year,70,115.15,Fiber optic,Credit card (automatic),0.0464,Rendah
+4086-ATNFV,One year,34,60.8,DSL,Mailed check,0.0464,Rendah
+4378-MYPGO,Two year,68,105.25,Fiber optic,Bank transfer (automatic),0.0462,Rendah
+2245-ADZFJ,Two year,31,80.55,DSL,Bank transfer (automatic),0.0459,Rendah
+4376-KFVRS,Two year,72,114.05,Fiber optic,Credit card (automatic),0.0458,Rendah
+9313-CDOGY,Month-to-month,38,19.6,No,Electronic check,0.0456,Rendah
+5061-PBXFW,Month-to-month,32,61.4,DSL,Bank transfer (automatic),0.0446,Rendah
+0868-VJRDR,Two year,64,104.05,Fiber optic,Credit card (automatic),0.0443,Rendah
+1936-CZAKF,Two year,49,49.65,DSL,Credit card (automatic),0.0439,Rendah
+8915-NNTRC,Two year,72,107.7,Fiber optic,Credit card (automatic),0.0432,Rendah
+0017-IUDMW,Two year,72,116.8,Fiber optic,Credit card (automatic),0.0429,Rendah
+8024-XNAFQ,Two year,72,107.4,Fiber optic,Bank transfer (automatic),0.0425,Rendah
+9030-QGZNL,Two year,8,20.85,No,Mailed check,0.0425,Rendah
+7375-WMVMT,Two year,71,95.5,Fiber optic,Credit card (automatic),0.0424,Rendah
+4304-TSPVK,Two year,68,114.9,Fiber optic,Bank transfer (automatic),0.042,Rendah
+9209-NWPGU,One year,44,65.4,DSL,Electronic check,0.0419,Rendah
+9289-LBQVU,One year,64,70.15,DSL,Mailed check,0.0418,Rendah
+6527-PZFPV,One year,24,20.8,No,Credit card (automatic),0.0417,Rendah
+9758-MFWGD,One year,48,29.9,DSL,Bank transfer (automatic),0.0416,Rendah
+9867-XOBQA,Two year,21,53.15,DSL,Mailed check,0.0414,Rendah
+7338-ERIVA,One year,39,45.05,DSL,Bank transfer (automatic),0.0414,Rendah
+0254-KCJGT,One year,52,81.4,DSL,Credit card (automatic),0.0412,Rendah
+2061-VVFST,Month-to-month,37,19.5,No,Bank transfer (automatic),0.0411,Rendah
+9906-NHHVC,Two year,65,53.5,DSL,Bank transfer (automatic),0.0407,Rendah
+6194-HBGQN,One year,51,81.15,DSL,Credit card (automatic),0.0405,Rendah
+4973-RLZVI,One year,30,74.65,DSL,Credit card (automatic),0.0404,Rendah
+2325-ZUSFD,One year,57,70.1,DSL,Bank transfer (automatic),0.0404,Rendah
+2188-SXWVT,One year,34,55.0,DSL,Mailed check,0.0403,Rendah
+3717-FDJFU,Two year,5,20.45,No,Mailed check,0.0402,Rendah
+8763-KIAFH,One year,27,20.55,No,Mailed check,0.0402,Rendah
+8400-WZICQ,Month-to-month,55,55.7,DSL,Electronic check,0.0402,Rendah
+1271-UODNO,Two year,39,53.85,DSL,Credit card (automatic),0.0401,Rendah
+6726-NNFWD,Two year,71,89.45,Fiber optic,Credit card (automatic),0.0399,Rendah
+9648-BCHKM,Two year,18,24.65,No,Credit card (automatic),0.0396,Rendah
+5468-BPMMO,Month-to-month,46,19.6,No,Electronic check,0.0394,Rendah
+3125-RAHBV,One year,22,20.3,No,Credit card (automatic),0.0394,Rendah
+9746-UGFAC,One year,22,20.85,No,Bank transfer (automatic),0.0393,Rendah
+4500-HKANN,Two year,23,59.7,DSL,Mailed check,0.0392,Rendah
+7359-WWYJV,Two year,72,114.45,Fiber optic,Credit card (automatic),0.0388,Rendah
+5204-HMGYF,One year,49,87.2,DSL,Mailed check,0.0387,Rendah
+7520-HQWJU,Month-to-month,66,67.45,DSL,Bank transfer (automatic),0.0386,Rendah
+5469-NUJUR,Two year,19,19.95,No,Mailed check,0.0385,Rendah
+6698-OXETB,Two year,11,20.4,No,Mailed check,0.0383,Rendah
+2511-MORQY,One year,50,54.9,DSL,Bank transfer (automatic),0.0381,Rendah
+9108-EQPNQ,Two year,10,26.1,No,Credit card (automatic),0.038,Rendah
+6374-NTQLP,Two year,72,104.1,Fiber optic,Credit card (automatic),0.038,Rendah
+9777-IQHWP,Two year,64,93.4,Fiber optic,Bank transfer (automatic),0.0378,Rendah
+2676-SSLTO,Two year,49,66.15,DSL,Bank transfer (automatic),0.0377,Rendah
+8809-XKHMD,Two year,72,100.55,Fiber optic,Bank transfer (automatic),0.0375,Rendah
+5495-GPSRW,Two year,20,19.7,No,Mailed check,0.0371,Rendah
+8314-HTWVE,Two year,7,19.85,No,Mailed check,0.0371,Rendah
+8779-YIQQA,One year,21,19.8,No,Mailed check,0.037,Rendah
+6848-YLDFR,One year,58,75.2,DSL,Credit card (automatic),0.0369,Rendah
+3985-HOYPM,One year,26,19.4,No,Mailed check,0.0368,Rendah
+0121-SNYRK,One year,50,35.4,DSL,Mailed check,0.0367,Rendah
+1936-UAFEH,Two year,68,110.25,Fiber optic,Credit card (automatic),0.0366,Rendah
+5825-XJOCM,One year,48,64.4,DSL,Bank transfer (automatic),0.0364,Rendah
+5063-IUOKK,Two year,13,19.75,No,Mailed check,0.0353,Rendah
+9720-JJJOR,One year,41,60.3,DSL,Bank transfer (automatic),0.035,Rendah
+1063-DHQJF,Two year,69,92.15,Fiber optic,Mailed check,0.035,Rendah
+6061-GWWAV,One year,41,70.2,DSL,Mailed check,0.0348,Rendah
+6461-PPAXN,One year,35,54.95,DSL,Bank transfer (automatic),0.0348,Rendah
+5696-CEIQJ,Two year,67,103.15,Fiber optic,Bank transfer (automatic),0.0347,Rendah
+4709-LKHYG,One year,29,20.0,No,Electronic check,0.0342,Rendah
+3926-YZVVX,One year,41,50.05,DSL,Bank transfer (automatic),0.0341,Rendah
+9640-ZSLDC,One year,53,60.6,DSL,Credit card (automatic),0.0338,Rendah
+5057-RKGLH,Two year,9,20.35,No,Mailed check,0.0337,Rendah
+5574-NXZIU,Two year,63,109.2,Fiber optic,Credit card (automatic),0.0336,Rendah
+5245-VDBUR,One year,52,35.45,DSL,Mailed check,0.0335,Rendah
+7690-KPNCU,One year,64,73.05,DSL,Credit card (automatic),0.0334,Rendah
+2335-GSODA,Two year,23,40.1,DSL,Mailed check,0.0332,Rendah
+7337-CINUD,Two year,8,19.5,No,Bank transfer (automatic),0.0331,Rendah
+2150-OEGBV,One year,27,20.1,No,Bank transfer (automatic),0.0325,Rendah
+1494-EJZDW,Two year,10,20.15,No,Mailed check,0.0324,Rendah
+8873-TMKGR,One year,29,19.1,No,Mailed check,0.032,Rendah
+1929-ZCBHE,One year,47,40.3,DSL,Electronic check,0.0319,Rendah
+0181-RITDD,Two year,62,108.15,Fiber optic,Mailed check,0.0311,Rendah
+3506-OVLKD,One year,35,26.2,No,Bank transfer (automatic),0.031,Rendah
+5519-TEEUH,One year,33,20.15,No,Mailed check,0.0308,Rendah
+7632-YUTXB,One year,25,20.05,No,Mailed check,0.0308,Rendah
+4648-YPBTM,Two year,53,73.9,DSL,Bank transfer (automatic),0.0307,Rendah
+6823-SIDFQ,One year,28,18.25,No,Credit card (automatic),0.0307,Rendah
+7322-OCWHC,Two year,72,93.05,Fiber optic,Bank transfer (automatic),0.0306,Rendah
+9530-GRMJG,Two year,70,84.1,DSL,Electronic check,0.0306,Rendah
+7581-EBBOU,One year,60,70.15,DSL,Credit card (automatic),0.0304,Rendah
+3442-ZHHCC,One year,68,76.9,DSL,Credit card (automatic),0.0304,Rendah
+6013-BHCAW,Two year,61,81.0,DSL,Bank transfer (automatic),0.0303,Rendah
+3705-PSNGL,One year,45,20.4,No,Electronic check,0.0301,Rendah
+5820-PTRYM,One year,56,68.45,DSL,Credit card (automatic),0.03,Rendah
+3982-JGSFD,One year,36,20.35,No,Credit card (automatic),0.0298,Rendah
+6519-ZHPXP,Two year,72,108.3,Fiber optic,Bank transfer (automatic),0.0298,Rendah
+7636-PEPNS,One year,58,44.1,DSL,Mailed check,0.0297,Rendah
+4877-TSOFF,One year,55,75.75,DSL,Bank transfer (automatic),0.0297,Rendah
+3831-YCPUO,Two year,72,109.5,Fiber optic,Credit card (automatic),0.0296,Rendah
+7471-MQPOS,One year,71,72.9,DSL,Bank transfer (automatic),0.0294,Rendah
+5917-RYRMG,One year,32,19.8,No,Credit card (automatic),0.0288,Rendah
+1023-BQXZE,Two year,57,74.35,DSL,Bank transfer (automatic),0.0287,Rendah
+3812-LRZIR,Two year,27,24.5,No,Electronic check,0.0283,Rendah
+0164-XAIRP,Two year,24,19.55,No,Bank transfer (automatic),0.0281,Rendah
+2088-IEBAU,Two year,68,88.15,DSL,Electronic check,0.028,Rendah
+5170-PTRKA,One year,49,35.8,DSL,Credit card (automatic),0.028,Rendah
+4530-NDRKU,One year,42,19.05,No,Electronic check,0.0275,Rendah
+9926-PJHDQ,Two year,72,76.8,DSL,Bank transfer (automatic),0.0273,Rendah
+1139-WUOAH,Two year,57,53.35,DSL,Credit card (automatic),0.0273,Rendah
+1776-SPBWV,One year,34,20.1,No,Bank transfer (automatic),0.0272,Rendah
+3055-VTCGS,One year,63,58.55,DSL,Credit card (automatic),0.0272,Rendah
+5318-YKDPV,Two year,43,79.15,DSL,Credit card (automatic),0.027,Rendah
+6064-ZATLR,Two year,27,52.85,DSL,Bank transfer (automatic),0.027,Rendah
+8782-NUUOL,One year,60,79.0,DSL,Mailed check,0.0269,Rendah
+3865-ZFZIB,Two year,19,19.65,No,Mailed check,0.0269,Rendah
+4227-OJHAL,One year,68,73.0,DSL,Credit card (automatic),0.0268,Rendah
+2266-FUBDZ,Two year,15,19.35,No,Mailed check,0.0265,Rendah
+5893-PYOLZ,Two year,56,81.8,DSL,Credit card (automatic),0.0263,Rendah
+4981-FLTMF,Month-to-month,57,65.2,DSL,Bank transfer (automatic),0.0262,Rendah
+2541-YGPKE,One year,42,63.7,DSL,Credit card (automatic),0.026,Rendah
+8717-VCTXJ,One year,42,19.55,No,Mailed check,0.0257,Rendah
+8869-TORSS,One year,48,60.35,DSL,Credit card (automatic),0.0257,Rendah
+4962-CHQPW,One year,29,19.85,No,Mailed check,0.0254,Rendah
+4702-HDRKD,One year,67,49.35,DSL,Bank transfer (automatic),0.0253,Rendah
+9919-FZDED,Two year,72,84.1,DSL,Credit card (automatic),0.0253,Rendah
+6223-DHJGV,One year,42,20.65,No,Mailed check,0.0253,Rendah
+6322-HRPFA,Month-to-month,49,59.6,DSL,Credit card (automatic),0.0252,Rendah
+4703-MQYKT,Two year,21,19.6,No,Mailed check,0.0245,Rendah
+0559-CKHUS,Two year,29,19.55,No,Mailed check,0.0244,Rendah
+4560-WQAQW,One year,59,68.7,DSL,Bank transfer (automatic),0.0243,Rendah
+1525-LNLOJ,Two year,66,63.3,DSL,Bank transfer (automatic),0.0241,Rendah
+4737-HOBAX,Two year,63,79.8,DSL,Credit card (automatic),0.0238,Rendah
+0513-RBGPE,Two year,37,62.8,DSL,Credit card (automatic),0.0238,Rendah
+9824-QCJPK,One year,36,20.0,No,Mailed check,0.0235,Rendah
+9945-PSVIP,Two year,25,18.7,No,Mailed check,0.0235,Rendah
+7061-OVMIM,One year,30,19.55,No,Bank transfer (automatic),0.0229,Rendah
+3649-JPUGY,Two year,72,88.6,DSL,Bank transfer (automatic),0.0228,Rendah
+0979-MOZQI,Two year,62,39.0,DSL,Bank transfer (automatic),0.0226,Rendah
+2892-GESUL,Two year,18,19.35,No,Mailed check,0.0225,Rendah
+5313-FPXWG,One year,51,24.6,No,Bank transfer (automatic),0.0221,Rendah
+1265-HVPZB,One year,59,66.4,DSL,Credit card (automatic),0.022,Rendah
+9548-LERKT,Two year,24,19.75,No,Mailed check,0.022,Rendah
+6418-HNFED,Two year,51,83.25,DSL,Credit card (automatic),0.0217,Rendah
+8390-FESFV,Two year,62,84.5,DSL,Bank transfer (automatic),0.0217,Rendah
+9385-NXKDA,Two year,72,82.65,DSL,Credit card (automatic),0.0216,Rendah
+6872-HXFNF,One year,64,58.35,DSL,Bank transfer (automatic),0.0213,Rendah
+4039-PIMHX,Two year,49,49.8,DSL,Mailed check,0.0212,Rendah
+1090-ESELR,Two year,72,105.5,Fiber optic,Bank transfer (automatic),0.0211,Rendah
+5380-XPJNZ,One year,38,20.05,No,Mailed check,0.0204,Rendah
+8345-MVDYC,Two year,45,81.65,DSL,Bank transfer (automatic),0.0203,Rendah
+6203-HBZPA,Two year,52,63.9,DSL,Credit card (automatic),0.0203,Rendah
+0263-FJTQO,Two year,50,70.5,DSL,Credit card (automatic),0.0203,Rendah
+9359-UGBTK,One year,67,72.35,DSL,Bank transfer (automatic),0.0198,Rendah
+5702-KVQRD,Two year,71,82.55,DSL,Electronic check,0.0197,Rendah
+3978-YNKDD,Two year,19,20.85,No,Credit card (automatic),0.0196,Rendah
+0707-HOVVN,Two year,70,75.5,DSL,Bank transfer (automatic),0.0193,Rendah
+0057-QBUQH,Two year,43,25.1,No,Electronic check,0.0191,Rendah
+5924-SNGKP,One year,41,20.25,No,Credit card (automatic),0.019,Rendah
+3489-VSFRD,One year,56,60.25,DSL,Credit card (automatic),0.0189,Rendah
+0298-XACET,Two year,52,50.2,DSL,Mailed check,0.0186,Rendah
+9950-MTGYX,Two year,28,20.3,No,Credit card (automatic),0.0186,Rendah
+6681-ZSEXG,Two year,56,59.5,DSL,Credit card (automatic),0.0185,Rendah
+5751-USDBL,Two year,46,81.0,DSL,Mailed check,0.0185,Rendah
+5696-JVVQY,Two year,48,70.1,DSL,Credit card (automatic),0.0184,Rendah
+4751-ERMAN,Two year,72,75.4,DSL,Bank transfer (automatic),0.0183,Rendah
+2805-AUFQN,Two year,25,19.8,No,Credit card (automatic),0.018,Rendah
+2987-BJXIK,Two year,70,84.7,DSL,Mailed check,0.0177,Rendah
+6814-ZPWFQ,One year,51,25.0,No,Bank transfer (automatic),0.0176,Rendah
+1227-UDMZR,Two year,72,91.15,DSL,Bank transfer (automatic),0.0172,Rendah
+8173-RXAYP,Two year,24,19.7,No,Mailed check,0.0171,Rendah
+2812-REYAT,One year,49,20.05,No,Bank transfer (automatic),0.017,Rendah
+4213-HKBJO,Two year,33,25.7,No,Credit card (automatic),0.017,Rendah
+8590-OHDIW,One year,38,20.3,No,Mailed check,0.0169,Rendah
+4335-UPJSI,Two year,24,19.75,No,Mailed check,0.0169,Rendah
+9339-FIIJL,Two year,72,85.95,DSL,Bank transfer (automatic),0.0167,Rendah
+6119-SPUDB,Two year,46,38.25,DSL,Mailed check,0.0166,Rendah
+2332-TODQS,One year,48,25.05,No,Credit card (automatic),0.0165,Rendah
+0909-SELIE,Two year,61,80.8,DSL,Bank transfer (automatic),0.0165,Rendah
+0230-UBYPQ,One year,63,36.1,DSL,Bank transfer (automatic),0.0164,Rendah
+6701-YVNQG,Two year,72,88.7,DSL,Credit card (automatic),0.0164,Rendah
+8626-PTQGE,Two year,69,60.05,DSL,Bank transfer (automatic),0.0159,Rendah
+7401-JIXNM,Two year,54,91.3,DSL,Credit card (automatic),0.0156,Rendah
+9674-EHPPG,Two year,46,40.4,DSL,Credit card (automatic),0.0151,Rendah
+1122-YJBCS,One year,69,53.65,DSL,Credit card (automatic),0.0151,Rendah
+1088-AUUZZ,Two year,56,75.85,DSL,Credit card (automatic),0.015,Rendah
+5498-IBWPI,One year,66,49.4,DSL,Credit card (automatic),0.015,Rendah
+0123-CRBRT,Two year,61,88.1,DSL,Mailed check,0.0145,Rendah
+1568-BEKZM,Two year,70,90.05,DSL,Credit card (automatic),0.0143,Rendah
+5774-QPLTF,One year,50,20.35,No,Mailed check,0.0142,Rendah
+3251-YMVWZ,One year,53,24.05,No,Bank transfer (automatic),0.0141,Rendah
+7216-KAOID,One year,41,19.5,No,Bank transfer (automatic),0.0141,Rendah
+6332-FBZRI,One year,67,69.35,DSL,Credit card (automatic),0.014,Rendah
+0788-DXBFY,One year,58,19.55,No,Electronic check,0.0136,Rendah
+4654-ULTTN,Two year,70,74.8,DSL,Credit card (automatic),0.0136,Rendah
+6685-GBWJZ,One year,63,70.8,DSL,Credit card (automatic),0.0136,Rendah
+9610-WCESF,Two year,67,43.9,DSL,Electronic check,0.0136,Rendah
+0625-AFOHS,Two year,29,20.2,No,Mailed check,0.0136,Rendah
+7205-BAIAD,Two year,40,20.6,No,Bank transfer (automatic),0.0135,Rendah
+4955-VCWBI,One year,43,20.0,No,Mailed check,0.0134,Rendah
+9968-FFVVH,One year,63,68.8,DSL,Bank transfer (automatic),0.0133,Rendah
+2824-DXNKN,Two year,72,71.45,DSL,Bank transfer (automatic),0.0132,Rendah
+0420-TXVSG,Two year,66,66.1,DSL,Credit card (automatic),0.0131,Rendah
+5727-MYATE,Two year,72,90.8,DSL,Credit card (automatic),0.013,Rendah
+4825-FUREZ,Two year,42,20.25,No,Electronic check,0.013,Rendah
+8181-YHCMF,Two year,68,60.3,DSL,Credit card (automatic),0.013,Rendah
+9073-ZZIAY,Two year,62,86.1,DSL,Electronic check,0.0129,Rendah
+3508-VLHCZ,Two year,71,90.55,DSL,Credit card (automatic),0.0129,Rendah
+3161-ONRWK,One year,60,65.85,DSL,Bank transfer (automatic),0.0128,Rendah
+7649-SIJJF,Two year,71,80.1,DSL,Mailed check,0.0128,Rendah
+4121-AGSIN,One year,58,24.5,No,Credit card (automatic),0.0128,Rendah
+6953-PBDIN,Two year,70,72.95,DSL,Bank transfer (automatic),0.0127,Rendah
+8292-ITGYJ,Two year,45,24.65,No,Bank transfer (automatic),0.0124,Rendah
+5329-KRDTM,Two year,72,77.35,DSL,Credit card (automatic),0.0124,Rendah
+9067-SQTNS,One year,44,20.6,No,Bank transfer (automatic),0.0123,Rendah
+8219-VYBVI,Two year,39,25.0,No,Mailed check,0.0121,Rendah
+0301-FIDRB,Two year,72,63.8,DSL,Bank transfer (automatic),0.012,Rendah
+2885-HIJDH,Two year,69,86.9,DSL,Bank transfer (automatic),0.012,Rendah
+5266-PFRQK,One year,52,20.85,No,Credit card (automatic),0.0119,Rendah
+3967-KXAPS,Two year,72,92.3,DSL,Credit card (automatic),0.0118,Rendah
+2990-IAJSV,Two year,72,92.0,DSL,Bank transfer (automatic),0.0117,Rendah
+0048-PIHNL,One year,49,20.45,No,Bank transfer (automatic),0.0116,Rendah
+8430-TWCBX,One year,49,20.7,No,Credit card (automatic),0.0116,Rendah
+2649-HWLYB,Two year,65,76.15,DSL,Bank transfer (automatic),0.0112,Rendah
+0839-JTCUD,Two year,66,89.9,DSL,Credit card (automatic),0.0109,Rendah
+6388-TABGU,One year,62,56.15,DSL,Bank transfer (automatic),0.0107,Rendah
+6374-AFWOX,Two year,46,65.65,DSL,Mailed check,0.0106,Rendah
+5845-BZZIB,Two year,35,20.1,No,Mailed check,0.0105,Rendah
+2263-SFSQZ,Two year,51,24.95,No,Mailed check,0.0102,Rendah
+4735-BJKOU,Two year,40,20.15,No,Mailed check,0.0101,Rendah
+0379-DJQHR,Two year,67,81.35,DSL,Credit card (automatic),0.01,Rendah
+5181-OABFK,Two year,56,61.3,DSL,Credit card (automatic),0.01,Rendah
+8580-QVLOC,Two year,72,92.45,DSL,Credit card (automatic),0.01,Rendah
+6169-PPETC,Two year,35,20.5,No,Bank transfer (automatic),0.0099,Rendah
+1459-QNFQT,Two year,70,59.5,DSL,Bank transfer (automatic),0.0098,Rendah
+4674-HGNUA,Two year,71,89.9,DSL,Credit card (automatic),0.0097,Rendah
+2925-VDZHY,Two year,72,88.7,DSL,Credit card (automatic),0.0095,Rendah
+6288-CHQJB,Two year,54,69.95,DSL,Bank transfer (automatic),0.0093,Rendah
+4521-WFJAI,Two year,56,25.95,No,Bank transfer (automatic),0.0093,Rendah
+5296-BFCYD,Two year,46,20.1,No,Mailed check,0.0093,Rendah
+1716-LSAMB,Two year,45,54.65,DSL,Bank transfer (automatic),0.0093,Rendah
+7560-QJAVJ,Two year,70,79.6,DSL,Bank transfer (automatic),0.0093,Rendah
+4012-YCFAI,Two year,60,61.35,DSL,Mailed check,0.0092,Rendah
+7408-OFWXJ,Two year,72,89.8,DSL,Credit card (automatic),0.0092,Rendah
+0608-JDVEC,Two year,50,19.8,No,Electronic check,0.0091,Rendah
+1047-RNXZV,Two year,43,19.55,No,Mailed check,0.0091,Rendah
+9588-YRFHY,Two year,49,19.9,No,Credit card (automatic),0.009,Rendah
+0732-OCQOC,Two year,52,25.05,No,Bank transfer (automatic),0.0089,Rendah
+3487-EARAT,One year,70,74.1,DSL,Credit card (automatic),0.0087,Rendah
+6080-LNESI,Two year,51,24.75,No,Mailed check,0.0087,Rendah
+6292-TOSSS,Two year,50,24.9,No,Bank transfer (automatic),0.0084,Rendah
+4779-ZGICK,Two year,48,23.55,No,Mailed check,0.0083,Rendah
+9755-JHNMN,Two year,49,67.4,DSL,Bank transfer (automatic),0.0083,Rendah
+7998-WNZEM,Two year,71,80.6,DSL,Bank transfer (automatic),0.0082,Rendah
+5803-NQJZO,Two year,72,67.8,DSL,Bank transfer (automatic),0.0079,Rendah
+0769-MURVM,Two year,72,65.7,DSL,Bank transfer (automatic),0.0079,Rendah
+4940-KHCWD,Two year,60,37.7,DSL,Bank transfer (automatic),0.0076,Rendah
+0052-YNYOT,One year,67,20.55,No,Electronic check,0.0074,Rendah
+6096-EGVTU,One year,64,24.9,No,Mailed check,0.0074,Rendah
+6164-HAQTX,Two year,71,53.95,DSL,Bank transfer (automatic),0.0073,Rendah
+2954-PIBKO,Two year,69,64.15,DSL,Credit card (automatic),0.0072,Rendah
+8241-JUIQO,One year,61,19.45,No,Bank transfer (automatic),0.007,Rendah
+5457-COLHT,Two year,69,80.65,DSL,Bank transfer (automatic),0.007,Rendah
+8338-QIUNR,Two year,72,66.5,DSL,Credit card (automatic),0.0069,Rendah
+3470-OBUET,Two year,67,74.0,DSL,Credit card (automatic),0.0069,Rendah
+8532-UEFWH,Two year,52,25.75,No,Mailed check,0.0068,Rendah
+6365-HITVU,Two year,71,87.25,DSL,Credit card (automatic),0.0067,Rendah
+0562-FGDCR,Two year,72,74.55,DSL,Mailed check,0.0067,Rendah
+5324-KTGCG,One year,71,20.85,No,Electronic check,0.0066,Rendah
+3948-KXDUF,Two year,66,68.75,DSL,Bank transfer (automatic),0.0066,Rendah
+4018-PPNDW,Two year,61,24.1,No,Mailed check,0.0066,Rendah
+6283-GITPX,Two year,71,76.9,DSL,Credit card (automatic),0.0065,Rendah
+4299-OPXEJ,Two year,56,19.55,No,Bank transfer (automatic),0.0065,Rendah
+3913-FCUUW,Two year,72,70.45,DSL,Bank transfer (automatic),0.0064,Rendah
+5666-MBJPT,Two year,65,25.1,No,Bank transfer (automatic),0.0064,Rendah
+3071-MVJCD,Two year,72,82.3,DSL,Bank transfer (automatic),0.0064,Rendah
+3580-GICBM,Two year,61,24.2,No,Mailed check,0.0064,Rendah
+3200-MNQTF,Two year,67,70.9,DSL,Credit card (automatic),0.0063,Rendah
+4698-KVLLG,Two year,51,19.6,No,Credit card (automatic),0.0063,Rendah
+9114-DPSIA,Two year,72,81.0,DSL,Credit card (automatic),0.0062,Rendah
+8701-DGLVH,Two year,51,20.45,No,Mailed check,0.0062,Rendah
+3884-UEBXB,Two year,67,36.15,DSL,Bank transfer (automatic),0.0061,Rendah
+6248-BSHKG,One year,61,20.4,No,Mailed check,0.006,Rendah
+1709-EJDOX,Two year,47,19.75,No,Mailed check,0.006,Rendah
+0463-TXOAK,Two year,52,25.6,No,Credit card (automatic),0.006,Rendah
+3088-FVYWK,Two year,53,25.55,No,Credit card (automatic),0.0059,Rendah
+8028-PNXHQ,Two year,62,24.25,No,Bank transfer (automatic),0.0058,Rendah
+3795-GWTRD,Two year,63,75.55,DSL,Credit card (automatic),0.0057,Rendah
+2230-XTUWL,Two year,48,19.55,No,Mailed check,0.0057,Rendah
+4742-TXUEX,Two year,47,19.3,No,Bank transfer (automatic),0.0056,Rendah
+9372-TXXPS,Two year,60,59.85,DSL,Bank transfer (automatic),0.0055,Rendah
+3429-IFLEM,Two year,71,77.35,DSL,Credit card (automatic),0.0055,Rendah
+4785-FCIFB,Two year,61,24.4,No,Mailed check,0.0055,Rendah
+4302-ZYFEL,One year,69,20.55,No,Credit card (automatic),0.0055,Rendah
+3400-ESFUW,Two year,55,57.55,DSL,Bank transfer (automatic),0.0054,Rendah
+1862-QRWPE,Two year,48,20.65,No,Bank transfer (automatic),0.0054,Rendah
+1085-LDWAM,One year,69,20.35,No,Credit card (automatic),0.0054,Rendah
+1697-LYYYX,One year,61,19.1,No,Credit card (automatic),0.0053,Rendah
+8207-VVMYB,Two year,70,26.0,No,Bank transfer (automatic),0.0052,Rendah
+6370-ZVHDV,Two year,61,25.3,No,Bank transfer (automatic),0.0052,Rendah
+1705-GUHPV,Two year,63,24.2,No,Mailed check,0.0051,Rendah
+9814-AOUDH,Two year,53,19.5,No,Credit card (automatic),0.0051,Rendah
+5334-AFQJB,Two year,72,25.1,No,Credit card (automatic),0.0051,Rendah
+6349-JDHQP,Two year,53,19.85,No,Credit card (automatic),0.005,Rendah
+1574-DYCWE,Two year,51,19.95,No,Mailed check,0.005,Rendah
+3511-BFTJW,Two year,72,38.5,DSL,Credit card (automatic),0.005,Rendah
+3967-VQOGC,Two year,67,24.9,No,Mailed check,0.0049,Rendah
+6134-KWTBV,Two year,62,23.4,No,Bank transfer (automatic),0.0049,Rendah
+2632-TACXW,Two year,62,23.65,No,Bank transfer (automatic),0.0049,Rendah
+6917-FIJHC,Two year,72,26.0,No,Mailed check,0.0048,Rendah
+3970-XGJDU,Two year,62,19.2,No,Credit card (automatic),0.0047,Rendah
+6340-DACFT,Two year,50,20.55,No,Credit card (automatic),0.0047,Rendah
+1926-QUZNN,Two year,72,25.25,No,Bank transfer (automatic),0.0046,Rendah
+6625-FLENO,Two year,58,20.75,No,Mailed check,0.0046,Rendah
+1767-CJKBA,Two year,66,25.1,No,Mailed check,0.0045,Rendah
+3027-YNWZU,Two year,64,25.0,No,Credit card (automatic),0.0044,Rendah
+3646-ITDGM,Two year,56,19.7,No,Bank transfer (automatic),0.0044,Rendah
+3454-JFUBC,Two year,68,20.0,No,Credit card (automatic),0.0043,Rendah
+7167-PCEYD,Two year,67,19.8,No,Mailed check,0.0043,Rendah
+8590-YFFQO,Two year,70,64.95,DSL,Credit card (automatic),0.004,Rendah
+3836-FZSDJ,Two year,71,24.85,No,Bank transfer (automatic),0.004,Rendah
+2075-PUEPR,Two year,55,19.35,No,Bank transfer (automatic),0.004,Rendah
+0040-HALCW,Two year,54,20.4,No,Credit card (automatic),0.004,Rendah
+2525-GVKQU,Two year,60,20.6,No,Mailed check,0.0039,Rendah
+8129-GMVGI,Two year,56,20.05,No,Mailed check,0.0039,Rendah
+9135-HSWOC,Two year,64,19.7,No,Bank transfer (automatic),0.0038,Rendah
+9286-BHDQG,Two year,72,45.25,DSL,Credit card (automatic),0.0037,Rendah
+8735-SDUFN,Two year,72,24.3,No,Bank transfer (automatic),0.0037,Rendah
+2696-RZVZW,Two year,68,25.05,No,Credit card (automatic),0.0037,Rendah
+7114-AEOZE,Two year,60,19.85,No,Bank transfer (automatic),0.0037,Rendah
+7729-XBTWX,Two year,66,19.75,No,Mailed check,0.0037,Rendah
+1820-DJFPH,Two year,72,24.05,No,Bank transfer (automatic),0.0036,Rendah
+9430-NKQLY,Two year,72,25.1,No,Credit card (automatic),0.0036,Rendah
+3563-SVYLG,Two year,68,62.65,DSL,Credit card (automatic),0.0035,Rendah
+8711-LOBKY,Two year,59,19.85,No,Mailed check,0.0035,Rendah
+4312-KFRXN,Two year,72,25.4,No,Mailed check,0.0034,Rendah
+2616-FLVQC,Two year,64,19.55,No,Mailed check,0.0034,Rendah
+7717-BICXI,Two year,60,20.55,No,Mailed check,0.0033,Rendah
+2169-RRLFW,Two year,71,25.6,No,Credit card (automatic),0.0033,Rendah
+2346-LOCWC,Two year,58,20.5,No,Credit card (automatic),0.0032,Rendah
+7157-SMCFK,Two year,61,19.75,No,Mailed check,0.0031,Rendah
+6848-HJTXY,Two year,64,19.45,No,Credit card (automatic),0.0031,Rendah
+7606-BPHHN,Two year,72,19.8,No,Credit card (automatic),0.0031,Rendah
+8347-GDTMP,Two year,64,19.45,No,Credit card (automatic),0.0031,Rendah
+8619-IJNDK,Two year,71,64.05,DSL,Credit card (automatic),0.003,Rendah
+1945-XISKS,Two year,67,19.65,No,Mailed check,0.003,Rendah
+1830-IPXVJ,Two year,61,19.75,No,Credit card (automatic),0.0029,Rendah
+7515-LODFU,Two year,69,20.3,No,Credit card (automatic),0.0028,Rendah
+0397-ZXWQF,Two year,67,20.5,No,Bank transfer (automatic),0.0028,Rendah
+0962-CQPWQ,Two year,62,20.3,No,Bank transfer (automatic),0.0028,Rendah
+9365-CSLBQ,Two year,71,24.35,No,Mailed check,0.0028,Rendah
+6345-FZOQH,Two year,69,19.9,No,Mailed check,0.0028,Rendah
+2236-HILPA,Two year,62,20.65,No,Credit card (automatic),0.0027,Rendah
+0174-QRVVY,Two year,71,25.35,No,Credit card (automatic),0.0027,Rendah
+7602-DBTOU,Two year,71,19.6,No,Mailed check,0.0025,Rendah
+0402-OAMEN,Two year,72,24.45,No,Bank transfer (automatic),0.0025,Rendah
+0480-KYJVA,Two year,72,24.25,No,Credit card (automatic),0.0025,Rendah
+1555-HAPSU,Two year,71,23.9,No,Credit card (automatic),0.0025,Rendah
+8224-KDLKN,Two year,72,25.0,No,Bank transfer (automatic),0.0025,Rendah
+8165-ZJRNM,Two year,72,23.75,No,Bank transfer (automatic),0.0025,Rendah
+4821-WQOYN,Two year,72,20.1,No,Credit card (automatic),0.0024,Rendah
+3910-MRQOY,Two year,72,19.4,No,Bank transfer (automatic),0.0022,Rendah
+9537-JALFH,Two year,69,19.9,No,Bank transfer (automatic),0.0021,Rendah
+1927-QEWMY,Two year,72,20.5,No,Credit card (automatic),0.0021,Rendah
+2984-RGEYA,Two year,69,19.75,No,Bank transfer (automatic),0.002,Rendah
+1403-GYAFU,Two year,70,20.05,No,Credit card (automatic),0.0019,Rendah
+3642-BYHDO,Two year,71,19.9,No,Bank transfer (automatic),0.0018,Rendah
+0794-YVSGE,Two year,72,20.3,No,Bank transfer (automatic),0.0018,Rendah
+1166-PQLGG,Two year,72,19.55,No,Bank transfer (automatic),0.0018,Rendah
+4086-WITJG,Two year,71,19.7,No,Credit card (automatic),0.0018,Rendah
+4277-BWBML,Two year,72,19.95,No,Bank transfer (automatic),0.0017,Rendah

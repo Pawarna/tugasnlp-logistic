@@ -1,0 +1,31 @@
+feature,label,coefficient,odds_ratio,arah
+Contract_Two year,Kontrak: 2 tahun,-1.3264,0.2654,menurunkan risiko
+tenure,Masa berlangganan (tenure),-1.2505,0.2864,menurunkan risiko
+Contract_One year,Kontrak: 1 tahun,-0.6866,0.5033,menurunkan risiko
+PhoneService_Yes,Punya layanan telepon,-0.5051,0.6034,menurunkan risiko
+MonthlyCharges,Tagihan bulanan,-0.4708,0.6245,menurunkan risiko
+OnlineSecurity_Yes,Online Security,-0.3496,0.705,menurunkan risiko
+TechSupport_Yes,Tech Support,-0.2976,0.7426,menurunkan risiko
+MultipleLines_No phone service,Tanpa layanan telepon,-0.2567,0.7736,menurunkan risiko
+Dependents_Yes,Punya tanggungan,-0.2249,0.7986,menurunkan risiko
+OnlineBackup_No internet service,Online Backup: tanpa internet,-0.1734,0.8408,menurunkan risiko
+StreamingTV_No internet service,Streaming TV: tanpa internet,-0.1734,0.8408,menurunkan risiko
+StreamingMovies_No internet service,Streaming Movies: tanpa internet,-0.1734,0.8408,menurunkan risiko
+DeviceProtection_No internet service,Device Protection: tanpa internet,-0.1734,0.8408,menurunkan risiko
+TechSupport_No internet service,Tech Support: tanpa internet,-0.1734,0.8408,menurunkan risiko
+InternetService_No,Tanpa layanan internet,-0.1734,0.8408,menurunkan risiko
+OnlineSecurity_No internet service,Online Security: tanpa internet,-0.1734,0.8408,menurunkan risiko
+OnlineBackup_Yes,Online Backup,-0.0977,0.9069,menurunkan risiko
+PaymentMethod_Credit card (automatic),Bayar: kartu kredit (auto),-0.0301,0.9704,menurunkan risiko
+Partner_Yes,Punya pasangan,0.0215,1.0218,menaikkan risiko
+gender_Male,Gender: laki-laki,0.0226,1.0228,menaikkan risiko
+DeviceProtection_Yes,Device Protection,0.0352,1.0359,menaikkan risiko
+SeniorCitizen,Pelanggan senior,0.0547,1.0562,menaikkan risiko
+PaymentMethod_Mailed check,Bayar: mailed check,0.0754,1.0784,menaikkan risiko
+MultipleLines_Yes,Multi-line,0.3623,1.4366,menaikkan risiko
+PaperlessBilling_Yes,Paperless billing,0.3713,1.4496,menaikkan risiko
+StreamingMovies_Yes,Streaming Movies,0.3761,1.4565,menaikkan risiko
+StreamingTV_Yes,Streaming TV,0.3775,1.4586,menaikkan risiko
+PaymentMethod_Electronic check,Bayar: electronic check,0.3839,1.4679,menaikkan risiko
+TotalCharges,Total tagihan,0.5231,1.6873,menaikkan risiko
+InternetService_Fiber optic,Internet: Fiber optic,1.1823,3.2619,menaikkan risiko

@@ -1,0 +1,272 @@
+{
+  "dataset": {
+    "n_rows": 7043,
+    "n_cols": 21,
+    "n_features": 19,
+    "n_churn": 1869,
+    "n_no_churn": 5174,
+    "churn_rate": 26.54,
+    "n_missing_totalcharges": 0,
+    "n_duplicate_id": 0,
+    "tenure_mean": 32.37,
+    "tenure_median": 29.0,
+    "tenure_min": 0.0,
+    "tenure_max": 72.0,
+    "tenure_sd": 24.56,
+    "monthly_mean": 64.76,
+    "monthly_median": 70.35,
+    "monthly_min": 18.25,
+    "monthly_max": 118.75,
+    "monthly_sd": 30.09,
+    "total_sd": 2266.79
+  },
+  "split": {
+    "train_size": 5634,
+    "test_size": 1409,
+    "train_churn_rate": 26.54,
+    "test_churn_rate": 26.54
+  },
+  "model": {
+    "algorithm": "Logistic Regression (L2, lbfgs)",
+    "n_features": 30,
+    "C": 1.0,
+    "max_iter": 1000,
+    "n_iter": 49,
+    "seed": 42
+  },
+  "baseline": {
+    "accuracy": 0.7346
+  },
+  "metrics_default": {
+    "threshold": 0.5,
+    "accuracy": 0.807,
+    "precision": 0.6604,
+    "recall": 0.5615,
+    "f1": 0.6069,
+    "roc_auc": 0.8422,
+    "tn": 927,
+    "fp": 108,
+    "fn": 164,
+    "tp": 210
+  },
+  "metrics_recommended": {
+    "threshold": 0.3,
+    "accuracy": 0.7495,
+    "precision": 0.5193,
+    "recall": 0.754,
+    "f1": 0.615,
+    "roc_auc": 0.8422,
+    "tn": 774,
+    "fp": 261,
+    "fn": 92,
+    "tp": 282
+  },
+  "confusion": [
+    [
+      927,
+      108
+    ],
+    [
+      164,
+      210
+    ]
+  ],
+  "cv": {
+    "scores": [
+      0.8546,
+      0.8454,
+      0.8636,
+      0.8253,
+      0.8364
+    ],
+    "mean": 0.8451,
+    "std": 0.0134,
+    "folds": 5
+  },
+  "threshold_table": [
+    {
+      "threshold": 0.15,
+      "accuracy_pct": 66.71,
+      "precision_pct": 43.9,
+      "recall_pct": 91.44,
+      "f1_pct": 59.32,
+      "churn_tertangkap": 342,
+      "churn_terlewat": 32,
+      "false_alarm": 437
+    },
+    {
+      "threshold": 0.2,
+      "accuracy_pct": 70.26,
+      "precision_pct": 46.72,
+      "recall_pct": 85.56,
+      "f1_pct": 60.43,
+      "churn_tertangkap": 320,
+      "churn_terlewat": 54,
+      "false_alarm": 365
+    },
+    {
+      "threshold": 0.25,
+      "accuracy_pct": 73.31,
+      "precision_pct": 49.84,
+      "recall_pct": 81.02,
+      "f1_pct": 61.71,
+      "churn_tertangkap": 303,
+      "churn_terlewat": 71,
+      "false_alarm": 305
+    },
+    {
+      "threshold": 0.3,
+      "accuracy_pct": 74.95,
+      "precision_pct": 51.93,
+      "recall_pct": 75.4,
+      "f1_pct": 61.5,
+      "churn_tertangkap": 282,
+      "churn_terlewat": 92,
+      "false_alarm": 261
+    },
+    {
+      "threshold": 0.35,
+      "accuracy_pct": 76.51,
+      "precision_pct": 54.41,
+      "recall_pct": 70.86,
+      "f1_pct": 61.56,
+      "churn_tertangkap": 265,
+      "churn_terlewat": 109,
+      "false_alarm": 222
+    },
+    {
+      "threshold": 0.4,
+      "accuracy_pct": 77.86,
+      "precision_pct": 57.08,
+      "recall_pct": 66.84,
+      "f1_pct": 61.58,
+      "churn_tertangkap": 250,
+      "churn_terlewat": 124,
+      "false_alarm": 188
+    },
+    {
+      "threshold": 0.45,
+      "accuracy_pct": 78.92,
+      "precision_pct": 60.05,
+      "recall_pct": 61.5,
+      "f1_pct": 60.77,
+      "churn_tertangkap": 230,
+      "churn_terlewat": 144,
+      "false_alarm": 153
+    },
+    {
+      "threshold": 0.5,
+      "accuracy_pct": 80.7,
+      "precision_pct": 66.04,
+      "recall_pct": 56.15,
+      "f1_pct": 60.69,
+      "churn_tertangkap": 210,
+      "churn_terlewat": 164,
+      "false_alarm": 108
+    },
+    {
+      "threshold": 0.55,
+      "accuracy_pct": 79.84,
+      "precision_pct": 67.72,
+      "recall_pct": 45.99,
+      "f1_pct": 54.78,
+      "churn_tertangkap": 172,
+      "churn_terlewat": 202,
+      "false_alarm": 82
+    },
+    {
+      "threshold": 0.6,
+      "accuracy_pct": 79.91,
+      "precision_pct": 71.77,
+      "recall_pct": 40.11,
+      "f1_pct": 51.46,
+      "churn_tertangkap": 150,
+      "churn_terlewat": 224,
+      "false_alarm": 59
+    }
+  ],
+  "top_positive": [
+    {
+      "label": "Internet: Fiber optic",
+      "coefficient": 1.1823,
+      "odds_ratio": 3.2619
+    },
+    {
+      "label": "Total tagihan",
+      "coefficient": 0.5231,
+      "odds_ratio": 1.6873
+    },
+    {
+      "label": "Bayar: electronic check",
+      "coefficient": 0.3839,
+      "odds_ratio": 1.4679
+    },
+    {
+      "label": "Streaming TV",
+      "coefficient": 0.3775,
+      "odds_ratio": 1.4586
+    },
+    {
+      "label": "Streaming Movies",
+      "coefficient": 0.3761,
+      "odds_ratio": 1.4565
+    },
+    {
+      "label": "Paperless billing",
+      "coefficient": 0.3713,
+      "odds_ratio": 1.4496
+    },
+    {
+      "label": "Multi-line",
+      "coefficient": 0.3623,
+      "odds_ratio": 1.4366
+    },
+    {
+      "label": "Bayar: mailed check",
+      "coefficient": 0.0754,
+      "odds_ratio": 1.0784
+    }
+  ],
+  "top_negative": [
+    {
+      "label": "Kontrak: 2 tahun",
+      "coefficient": -1.3264,
+      "odds_ratio": 0.2654
+    },
+    {
+      "label": "Masa berlangganan (tenure)",
+      "coefficient": -1.2505,
+      "odds_ratio": 0.2864
+    },
+    {
+      "label": "Kontrak: 1 tahun",
+      "coefficient": -0.6866,
+      "odds_ratio": 0.5033
+    },
+    {
+      "label": "Punya layanan telepon",
+      "coefficient": -0.5051,
+      "odds_ratio": 0.6034
+    },
+    {
+      "label": "Tagihan bulanan",
+      "coefficient": -0.4708,
+      "odds_ratio": 0.6245
+    },
+    {
+      "label": "Online Security",
+      "coefficient": -0.3496,
+      "odds_ratio": 0.705
+    },
+    {
+      "label": "Tech Support",
+      "coefficient": -0.2976,
+      "odds_ratio": 0.7426
+    },
+    {
+      "label": "Tanpa layanan telepon",
+      "coefficient": -0.2567,
+      "odds_ratio": 0.7736
+    }
+  ]
+}
